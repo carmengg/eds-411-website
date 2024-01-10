@@ -35,6 +35,7 @@
 
 **Before** meeting the client meeting, develop an agenda, including:
 
+- who will be the meeting facilitator/chair and who will take notes
 - agenda (with times)
 - list of clarifying questions you want to ask the client
 - any questions about the data - make sure you know how to access it
