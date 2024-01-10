@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "EDS 411A",
     "section": "",
-    "text": "Available for download at Bren’s Academic Resources webste.\nClick here to view the document online."
+    "text": "Available for download at Bren’s Academic Resources webste."
   },
   {
     "objectID": "resources.html#capstone-project-guidelines-meds-2024",
     "href": "resources.html#capstone-project-guidelines-meds-2024",
     "title": "EDS 411A",
     "section": "",
-    "text": "Available for download at Bren’s Academic Resources webste.\nClick here to view the document online."
+    "text": "Available for download at Bren’s Academic Resources webste."
   },
   {
     "objectID": "resources.html#winter-deadlines",
@@ -25,14 +25,14 @@
     "href": "resources.html#example-design-implementation-plans",
     "title": "EDS 411A",
     "section": "Example Design Implementation Plans",
-    "text": "Example Design Implementation Plans\n\nClick here to view documents (only available to EDS 411 students)."
+    "text": "Example Design Implementation Plans\nClick here to view documents (only available to EDS 411 students)."
   },
   {
     "objectID": "resources.html#capstone-help-order-of-operations",
     "href": "resources.html#capstone-help-order-of-operations",
     "title": "EDS 411A",
     "section": "Capstone help “order of operations”",
-    "text": "Capstone help “order of operations”\n\nClick here to view diagram (only available to EDS 411 students)."
+    "text": "Capstone help “order of operations”\nClick here to view diagram (only available to EDS 411 students)."
   },
   {
     "objectID": "index.html",
@@ -68,5 +68,33 @@
     "title": "EDS 411A: MEDS Capstone",
     "section": "",
     "text": "This website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
+  },
+  {
+    "objectID": "week1.html",
+    "href": "week1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Slides\n\n\n\n1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop with Miya Scheble\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class\n\n\n\n\n\nGoals for first client meeting (to be held before next class):\n\nClarify what the objectives are (if you have any questions - know what they are before the meeting)\nAddress any issue with accessing data (determine beforehand what these might be)\nFind out who the audience for your product will be and if there will be people who can test it\n\nBefore meeting the client meeting, develop an agenda, including:\n\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n☑️ An ultra summarized version of what your capstone project will do\n☑️ The datasets you’ll use\n☑️  One graph showing exploratory visualization of your data\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\nSubmit by 5pm on Tuesday 1/16:\nProject roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+  },
+  {
+    "objectID": "week1.html#materials",
+    "href": "week1.html#materials",
+    "title": "Week 1",
+    "section": "",
+    "text": "Slides"
+  },
+  {
+    "objectID": "week1.html#schedule",
+    "href": "week1.html#schedule",
+    "title": "Week 1",
+    "section": "",
+    "text": "1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop with Miya Scheble\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class"
+  },
+  {
+    "objectID": "week1.html#to-do-by-next-week",
+    "href": "week1.html#to-do-by-next-week",
+    "title": "Week 1",
+    "section": "",
+    "text": "Goals for first client meeting (to be held before next class):\n\nClarify what the objectives are (if you have any questions - know what they are before the meeting)\nAddress any issue with accessing data (determine beforehand what these might be)\nFind out who the audience for your product will be and if there will be people who can test it\n\nBefore meeting the client meeting, develop an agenda, including:\n\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n☑️ An ultra summarized version of what your capstone project will do\n☑️ The datasets you’ll use\n☑️  One graph showing exploratory visualization of your data\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\nSubmit by 5pm on Tuesday 1/16:\nProject roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
   }
 ]

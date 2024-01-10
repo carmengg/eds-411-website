@@ -1,0 +1,70 @@
+# Week 1
+
+## Materials
+
+[Slides](https://docs.google.com/presentation/d/1Y9QxdMrZCi7MFflPNlJk3WPQOYocUDEbB5rN-vci8hc/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP
+
+1:30 - 2:00: Client relations workshop with Miya Scheble
+
+2:00 - 2:05: BREAK
+
+2:05 - 3:00: Communication roles activity
+
+3:00 - 3:10: BREAK
+
+3:10 - 3:50: Capstone project group roles, alias, and summary
+
+3:50 - 4:00: Checklist for next class
+
+
+## To do by next Week
+
+### Client meeting
+
+**Goals** for first client meeting (to be held before next class):
+
+- Clarify what the objectives are (if you have any questions - know what they are before the meeting)
+- Address any issue with accessing data (determine beforehand what these might be)
+- Find out who the audience for your product will be and if there will be people who can test it
+
+**Before** meeting the client meeting, develop an agenda, including:
+
+- agenda (with times)
+- list of clarifying questions you want to ask the client
+- any questions about the data - make sure you know how to access it
+
+**After** meeting: reflect with your team on how it went and what could be improved. 
+
+### Read & Prepare
+
+**Read:**
+
+☑️ MEDS Capstone Project Guidelines, available at [Bren's Academic Resources webste](https://bren.ucsb.edu/academic-resources-current-students)
+
+☑️ [Sample DIPs]((https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) )
+
+☑️ [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567)
+
+**Prepare** with your capstone team 3 slides covering:
+
+☑️ An ultra summarized version of what your capstone project will do
+
+☑️ The datasets you’ll use
+
+☑️ <u> One graph showing exploratory visualization of your data</u>
+
+Pick a person or two who are ready to do a 3 minute presentation next. class
+
+### Submit
+
+**Submit by 5pm on Tuesday 1/16:**
+
+Project roles. Update them on the EDS 2024 Capstone Assignments 
+
+
+**Submit by 5pm on Friday 1/19:**
+Finalize your summary paragraph for Bren website, add to Capstone Summaries. <u> Your advisor must review your summary before submitting it. </u>

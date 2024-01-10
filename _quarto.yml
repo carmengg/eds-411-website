@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "EDS 411A"
@@ -7,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: "Weekly materials"
+        menu: 
+          - week1.qmd        
       - href: resources.qmd
         text: Resources
+      
 
 format:
   html:

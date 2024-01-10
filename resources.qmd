@@ -1,8 +1,6 @@
 ## Capstone Project Guidelines MEDS 2024
 
-- Available for download at [Bren's Academic Resources webste](https://bren.ucsb.edu/academic-resources-current-students).
-
-- [Click here to view the document online](https://docs.google.com/document/d/10rIPJAm7qhXkofR1volcbfuca9C8Brrtu_M3_Mfe__I/edit?usp=share_link). 
+Available for download at [Bren's Academic Resources webste](https://bren.ucsb.edu/academic-resources-current-students).
 
 ## Winter Deadlines
 
@@ -10,8 +8,8 @@
 
 ## Example Design Implementation Plans
 
-- [Click here to view documents](https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) (only available to EDS 411 students). 
+[Click here to view documents](https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) (only available to EDS 411 students). 
 
 ## Capstone help "order of operations"
 
-- [Click here to view diagram](https://drive.google.com/file/d/1W699qeRlQOw_wQCJg0eAMziwCNrvQ7Ur/view?usp=share_link) (only available to EDS 411 students). 
+[Click here to view diagram](https://drive.google.com/file/d/1W699qeRlQOw_wQCJg0eAMziwCNrvQ7Ur/view?usp=share_link) (only available to EDS 411 students). 
