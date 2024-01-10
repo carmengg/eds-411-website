@@ -27,9 +27,11 @@
 
 **Goals** for first client meeting (to be held before next class):
 
-- Clarify what the objectives are (if you have any questions - know what they are before the meeting)
-- Address any issue with accessing data (determine beforehand what these might be)
-- Find out who the audience for your product will be and if there will be people who can test it
+☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)
+
+☑️ Address any issue with accessing data (determine beforehand what these might be)
+
+☑️ Find out who the audience for your product will be and if there will be people who can test it
 
 **Before** meeting the client meeting, develop an agenda, including:
 
@@ -38,6 +40,8 @@
 - any questions about the data - make sure you know how to access it
 
 **After** meeting: reflect with your team on how it went and what could be improved. 
+
+***
 
 ### Read & Prepare
 
@@ -51,20 +55,18 @@
 
 **Prepare** with your capstone team 3 slides covering:
 
-☑️ An ultra summarized version of what your capstone project will do
-
-☑️ The datasets you’ll use
-
-☑️ <u> One graph showing exploratory visualization of your data</u>
+- An ultra summarized version of what your capstone project will do
+- The datasets you’ll use
+- <u> One graph showing exploratory visualization of your data</u>
 
 Pick a person or two who are ready to do a 3 minute presentation next. class
 
+***
+
 ### Submit
 
-**Submit by 5pm on Tuesday 1/16:**
-
-Project roles. Update them on the EDS 2024 Capstone Assignments 
+**Submit by 5pm on Tuesday 1/16:** Project roles. Update them on the [EDS 2024 Capstone Assignments](https://docs.google.com/spreadsheets/d/1Ie32SuCyrsnXzdiQrFq4ppLV6o4Z1FdMmPA543Ve1jE/edit?usp=sharing)
 
 
 **Submit by 5pm on Friday 1/19:**
-Finalize your summary paragraph for Bren website, add to Capstone Summaries. <u> Your advisor must review your summary before submitting it. </u>
+Finalize your summary paragraph for Bren website, add to [Capstone Summaries](https://docs.google.com/document/d/1uLHkWuBDOPWqokY6a-W5Qe3CSx40QoM0YJLQiwI2KPU/edit?usp=sharing). <u> Your advisor must review your summary before submitting it. </u>
