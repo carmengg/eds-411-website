@@ -1,0 +1,63 @@
+# Week 2
+
+## Materials
+
+[Slides](https://docs.google.com/presentation/d/1RtUrvuHiWcNBjWLnOirpr8nUC3MADrarUUeCkt-W4_8/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:10 : Questions and check-in
+
+1:10 - 1:45 : Flash presentations
+
+1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School
+
+2:00 - 2:05: BREAK
+
+2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS
+
+3:20 - 3:25: BREAK
+
+3:25 - 3:55: Co-working on project statement and objectives
+
+3:55 - 4:00: Checklist for next class
+
+
+## To do by next Week
+
+
+### Submit
+
+**Submit by 5pm on Friday 1/19:**
+
+Finalize your summary paragraph for Bren website, add to [Capstone Summaries](https://docs.google.com/document/d/1uLHkWuBDOPWqokY6a-W5Qe3CSx40QoM0YJLQiwI2KPU/edit?usp=sharing). <u> Your advisor must review your summary before submitting it. </u>
+
+**Submit by 5pm on Tuesday 1/23:**
+
+Draft of DIP Team Management Plan section. Add document to the shared folder [Week 2 - Team Management Plan draft](https://drive.google.com/drive/folders/1sm8FMgOZv9Yo7Sb71xBmdHJn0KBG87i5?usp=share_link).
+
+Consider the following resources when writing the Team Management Plan:
+
+- MEDS Capstone Project Guidelines
+- Team’s project roles and responsibilities
+- [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567)
+- Flexible communication roles among team members
+- Conflict resolution strategies
+- [Dr. Allison Horst’s Code of Conduct](https://allisonhorst.github.io/EDS_212_essential-math/code_of_conduct.html)
+
+
+**Submit by 5pm on Tuesday 1/23:**
+
+Draft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables
+Add document to the shared folder [Week 2 - Problem & Objectives / Deliverables](https://drive.google.com/drive/folders/1F7tBaxYyg4BI2r_uTZR6gt7lxxsLQz58?usp=share_link)
+
+Remember: 
+
+- your team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections
+- as needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9.
+
+***
+
+### Upcoming Capstone Deadlines
+
+![](images/winter_deadlines_2.png)

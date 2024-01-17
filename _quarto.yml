@@ -10,7 +10,8 @@ website:
         text: Home
       - text: "Weekly materials"
         menu: 
-          - week1.qmd        
+          - week1.qmd 
+          - week2.qmd       
       - href: resources.qmd
         text: Resources
       
