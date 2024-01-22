@@ -21,11 +21,11 @@
     "text": "Winter Deadlines"
   },
   {
-    "objectID": "resources.html#example-design-implementation-plans",
-    "href": "resources.html#example-design-implementation-plans",
+    "objectID": "resources.html#example-design-and-implementation-plans",
+    "href": "resources.html#example-design-and-implementation-plans",
     "title": "EDS 411A",
-    "section": "Example Design Implementation Plans",
-    "text": "Example Design Implementation Plans\nClick here to view documents (only available to EDS 411 students)."
+    "section": "Example Design and Implementation Plans",
+    "text": "Example Design and Implementation Plans\nClick here to view documents (only available to EDS 411 students)."
   },
   {
     "objectID": "resources.html#capstone-help-order-of-operations",
@@ -33,6 +33,13 @@
     "title": "EDS 411A",
     "section": "Capstone help “order of operations”",
     "text": "Capstone help “order of operations”\nClick here to view diagram (only available to EDS 411 students)."
+  },
+  {
+    "objectID": "resources.html#roadmap-to-first-draft-of-design-and-implementation-plan",
+    "href": "resources.html#roadmap-to-first-draft-of-design-and-implementation-plan",
+    "title": "EDS 411A",
+    "section": "Roadmap to First Draft of Design and Implementation Plan",
+    "text": "Roadmap to First Draft of Design and Implementation Plan\n\n\n\n\n\n\n\n\nDIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle page\n-\nWeek 5 - Feb 9\n\n\nExecutive summary\nWeek 5 - Feb 7\nWeek 5 - Feb 9\n\n\nProblem statement and objectives\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nSolution Design: Approach and Methods\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nSolution Design: Data Management Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 6\n\n\nSolution Design: Proposed Software and Tools\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nDocumentation Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 7\n\n\nTesting Plan\nWeek 5 - Feb 7\nWeek 5 - Feb 9 1\n\n\nTimelines and Milestones\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nTeam Management Plan\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 9 2\n\n\nReferences\n-\nWeek 5 - Feb 9\n\n\n\n\nRevisit timeline, milestones, and software & tools to include testing\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
   },
   {
     "objectID": "week1.html",
@@ -67,7 +74,7 @@
     "href": "index.html",
     "title": "EDS 411A: MEDS Capstone",
     "section": "",
-    "text": "Welcome to the course materials for EDS 411A - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the Winter 2024 term. This site will be under construction throughout the course.\n\n\nThe goal of EDS 411A is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García (she/her/hers)\nE-mail: galaz-garcia@nceas.ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nThe following is our ideal calendar, the course content may be subject to change as the course progresses.\n\n\n\n\nThis website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
+    "text": "Welcome to the course materials for EDS 411A - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the Winter 2024 term. This site will be under construction throughout the course.\n\n\nThe goal of EDS 411A is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García (she/her/hers)\nE-mail: galaz-garcia@nceas.ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nClick here to view syllabus.\n\n\n\nThe following is our ideal calendar, the course content may be subject to change as the course progresses.\n\n\n\n\nThis website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
   },
   {
     "objectID": "index.html#about",
@@ -82,6 +89,13 @@
     "title": "EDS 411A: MEDS Capstone",
     "section": "",
     "text": "Carmen Galaz García (she/her/hers)\nE-mail: galaz-garcia@nceas.ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
+  },
+  {
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "EDS 411A: MEDS Capstone",
+    "section": "",
+    "text": "Click here to view syllabus."
   },
   {
     "objectID": "index.html#calendar",

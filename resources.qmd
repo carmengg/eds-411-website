@@ -6,10 +6,33 @@ Available for download at [Bren's Academic Resources webste](https://bren.ucsb.e
 
 ![](/images/winter_deadlines.png)
 
-## Example Design Implementation Plans
+## Example Design and Implementation Plans
 
 [Click here to view documents](https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) (only available to EDS 411 students). 
 
 ## Capstone help "order of operations"
 
 [Click here to view diagram](https://drive.google.com/file/d/1W699qeRlQOw_wQCJg0eAMziwCNrvQ7Ur/view?usp=share_link) (only available to EDS 411 students). 
+
+## Roadmap to First Draft of Design and Implementation Plan
+
+| DIP section      | Covered in class on | 1st draft due on |
+| ---------------- | ------------------- | ---------------- | 
+| Title page       |  -  | Week 5 - Feb 9 | 
+| Executive summary   | Week 5 - Feb 7 | Week 5 - Feb 9 | 
+| Problem statement and objectives | Week 2 - Jan 17 | Week 3 - Jan 23 | 
+| Solution Design: Approach and Methods | Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Solution Design: Data Management Plan | Week 4 - Jan 31 | Week 5 - Feb 6|
+| Solution Design: Proposed Software and Tools |  Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Documentation Plan | Week 4 - Jan 31 | Week 5 - Feb 7 | 
+| Testing Plan | Week 5 - Feb 7 | Week 5 - Feb 9 ^1^ | 
+| Timelines and Milestones | Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Team Management Plan | Week 2 - Jan 17 | Week 3 - Jan 23 |
+| Budget and Budget Justification | - | Week 5 - Feb 9 ^2^ | 
+| References | - | Week 5 - Feb 9 | 
+
+
+1. Revisit timeline, milestones, and software & tools to include testing
+
+2. See PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines
+
