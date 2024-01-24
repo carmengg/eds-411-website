@@ -27,7 +27,7 @@
 3:55 - 4:00: Checklist for next class
 
 
-## To do by next Week
+## To do by next week
 
 
 ### Submit
@@ -62,6 +62,6 @@ Remember:
 
 ***
 
-### Upcoming Capstone Deadlines
+## Upcoming Capstone Deadlines
 
 ![](images/winter_deadlines_2.png)

@@ -1,0 +1,96 @@
+# Week 3
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/1VmXfUZHoa8sfUcDN40tcC2i3cVfDJ8uAyH19QD-5WbM/edit?usp=sharing)
+
+
+## Schedule
+
+1:00 - 1:15 : Questions & check-in 
+
+1:15 - 1:55: GitHub organization & projects
+
+2:55 - 2:00: BREAK
+
+2:00 - 2:50: git merge conflicts
+
+2:50 - 3:00: BREAK
+
+3:00 - 3:40: DIP Solution Design
+
+3:40 - 3:54: DIP Timelines & Milestones
+
+3:50 - 3:55: ABT elevator pitch
+
+3:55 - 4:00: Checklist for next class
+
+
+
+## To do by next week
+
+
+### Submit by 5pm on Tuesday 1/30
+
+**Draft of DIP Approach & Methods section and DIP Proposed Software & Tools section**
+
+Include your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder [Week 3 - Approach & Methods / Proposed Software or Tools](https://drive.google.com/drive/folders/1Ew6oTgAHbfrJVYT1V6PVkLPiYqrZmqZm?usp=share_link).
+
+There might be details, questions, or even gaps about how you’ll create your  deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options. 
+
+
+**Draft of DIP Timeline and Milestones**
+
+
+Include a Gantt Chart to visualize represent your project’s timeline. Some [Gantt chart resources](https://docs.google.com/document/d/1eIcWfopk3owdXdjkzbEmZRg3oObdQLvYprrEMxP0jIQ/edit?usp=sharing) from Casey O’Hara. You can also make a nice looking one in Google sheets.
+
+Timeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion
+
+[Add document to the shared folder Week 3 - Timeline & Milestones.](https://drive.google.com/drive/folders/1nCL7-ZmdN_BvYR3Qi0fosoXaKc6AJP1c?usp=share_link)
+
+
+***
+
+### Prepare flash talk
+
+
+Prepare 4 slides covering:
+
+- Slide 1: A cover slide  
+- Slide 2: Your ABT elevator pitch telling us what your project is about (<< 1 min)
+- Slide 3: Brief overview of project’s products and deliverables
+- Slide 4:  Approach and methods draft diagram
+
+Pick a person or two who are ready to do a 3 minute presentation next class
+Add slides to [Week 4 - Flash talks](https://drive.google.com/drive/folders/1oo5EVP7l-EwNJDuaDHDHUzlTgjcGLlwq?usp=share_link) before class.
+
+Focus on: 
+
+- Avoiding big blocks of text.
+- Seamless transitions between sections, clear, and precise speech.
+- Practice and time it! 
+- Listen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!
+- When describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say? 
+
+*** 
+
+### Update GitHub organization & team management plan
+
+Update: 
+
+- Your GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from today’s demo sessions.
+
+- Your team management plan sections V and VI to include the GitHub tools we covered today (if your team will use them - highly encouraged!). 
+
+- Create a skeleton of repositories, some issues and milestones, and a project to track the bigger steps of your Approach & Methods section.
+
+***
+
+### Read
+
+Read the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library.  Come prepared with questions about data management and archival for your project.
+
+
+## Upcoming Capstone Deadlines
+
+![](images/winter_deadlines_3.png)

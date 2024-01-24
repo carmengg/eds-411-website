@@ -11,7 +11,8 @@ website:
       - text: "Weekly materials"
         menu: 
           - week1.qmd 
-          - week2.qmd       
+          - week2.qmd      
+          - week3.qmd 
       - href: resources.qmd
         text: Resources
       
