@@ -39,7 +39,7 @@ Include your workflow diagram draft (a screenshot is ok). In your final DIP this
 There might be details, questions, or even gaps about how you’ll create your  deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options. 
 
 
-**Draft of DIP Timeline and Milestones**
+**Draft of DIP Timeline & Milestones**
 
 
 Include a Gantt Chart to visualize represent your project’s timeline. Some [Gantt chart resources](https://docs.google.com/document/d/1eIcWfopk3owdXdjkzbEmZRg3oObdQLvYprrEMxP0jIQ/edit?usp=sharing) from Casey O’Hara. You can also make a nice looking one in Google sheets.
@@ -78,11 +78,9 @@ Focus on:
 
 Update: 
 
-- Your GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from today’s demo sessions.
+- Your GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week's demo sessions.
 
-- Your team management plan sections V and VI to include the GitHub tools we covered today (if your team will use them - highly encouraged!). 
-
-- Create a skeleton of repositories, some issues and milestones, and a project to track the bigger steps of your Approach & Methods section.
+- If your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.
 
 ***
 
