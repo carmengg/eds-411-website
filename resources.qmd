@@ -24,6 +24,7 @@ Available for download at [Bren's Academic Resources webste](https://bren.ucsb.e
 | Solution Design: Approach and Methods | Week 3 - Jan 24 | Week 4 - Jan 30 |
 | Solution Design: Data Management Plan | Week 4 - Jan 31 | Week 5 - Feb 6|
 | Solution Design: Proposed Software and Tools |  Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Products and Deliverables | Week 2 - Jan 17 | Week 3 - Jan 23|
 | Documentation Plan | Week 4 - Jan 31 | Week 5 - Feb 7 | 
 | Testing Plan | Week 5 - Feb 7 | Week 5 - Feb 9 ^1^ | 
 | Timelines and Milestones | Week 3 - Jan 24 | Week 4 - Jan 30 |
