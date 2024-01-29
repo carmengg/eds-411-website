@@ -1,0 +1,58 @@
+# Week 4
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/1oaFNAWnogW6JkNe8O4QYsyRKo5A9zNgs-vy_zNSnQj4/edit?usp=sharing)
+
+
+## Schedule
+
+1:00 - 1:10 : Questions & check-in 
+
+1:10 - 1:50: Capstone groups flash presentations 
+
+1:50 - 1:55: BREAK
+
+1:55 - 2:25: DIP Documentation Plan
+
+2:25 - 2:30: BREAK
+
+2:30 - 3:55: Data Management - Julien Brun, Reserach Data Services, UCSB Library
+
+3:55 - 4:00: Checklist for next class
+
+
+
+## To do by next week
+
+### Submit by 5pm on Tuesday 2/6
+A single-document draft of the DIP including:
+
+- Draft of DIP Solution Design - Data Management Plan and Documentation Plan sections 
+- Updates for all other sections you’ve drafted so far
+- Title page, budget and budget justification, and references section
+- In summary: everything in the DIP except for the testing plan and executive summary
+
+Add document to the [shared folder Week 4 - DIP draft](https://drive.google.com/drive/folders/1_PUJ3yn71pRWPIXIS7VjGl2v1LBPDNAC?usp=share_link). 
+
+::: {.callout-tip}
+# 
+
+* Allocate enough time discuss the Data Management Plan with your team and write it. This is one of the longer sections in the DIP.
+
+* Remember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!
+
+* Check the DIP length requirements in the Capstone Guidelines and start discussing with your team whether you’ll need to shorten it by 2/9.
+:::
+
+
+### Schedule
+We’ll have 1-1 meetings February 12-16 to check how everything is going. Please [book a 15-minute slot to meet in my calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVMMFRTZXRjRHF6fGRlZmF1bHR8N2I0ZDFiNzg0ZDU1YjEzMzE4MWI5ZTJkYTNjYzgxNmM).
+
+
+
+
+## Upcoming Capstone Deadlines
+
+![](images/winter_deadlines_3.png)
+
