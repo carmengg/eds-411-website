@@ -37,3 +37,8 @@ Available for download at [Bren's Academic Resources webste](https://bren.ucsb.e
 
 2. See PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines
 
+## UCSB Library Research Data Services
+
+[Good enough practices to manage your project.](https://ucsb-library-research-data-services.github.io/project-data-management/)
+
+Contact at: rds@library.ucsb.edu

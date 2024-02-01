@@ -4,6 +4,14 @@
 
 [Class slides](https://docs.google.com/presentation/d/1oaFNAWnogW6JkNe8O4QYsyRKo5A9zNgs-vy_zNSnQj4/edit?usp=sharing)
 
+### Data Management Presentation - Research Data Services, UCSB Library
+[Presentation slides](https://docs.google.com/presentation/d/e/2PACX-1vTcd7DFGMno6d2Gp_qw7VN15urE06RpOhTY6[…]0d6qoShO29wBM5PHtM8d/pub?start=false&loop=false&delayms=60000)
+
+[Good enough practices to manage your project](https://ucsb-library-research-data-services.github.io/project-data-management/)
+
+[Data Mangamenet Plan recommendations (DCC template)](https://doi.org/10.5281/zenodo.7566971)
+
+Contact: rds@library.ucsb.edu
 
 ## Schedule
 
@@ -25,7 +33,26 @@
 
 ## To do by next week
 
-### Submit by 5pm on Tuesday 2/6
+### Reflect
+
+**Context:** your Team Management Plan + Deliverables submissions and flashtalks, and the feedback you received.
+
+Add this point to your next team meeting agenda:
+
+**Discuss what went well and and what could be better. How will our team improve?**
+
+- Is your team delivering high-quality work?
+
+- Do you need to re-read the capstone guidelines?
+
+- Should you seek more feedback or guidance from your - client/advisor?
+
+- Does your team need to share work earlier so everyone can revise?
+
+- Do you need to establish new expectations or ground rules in your team management plan?
+
+
+### Submit by 1pm on Wednesday 2/7 (before next class)
 A single-document draft of the DIP including:
 
 - Draft of DIP Solution Design - Data Management Plan and Documentation Plan sections 
@@ -49,7 +76,7 @@ Add document to the [shared folder Week 4 - DIP draft](https://drive.google.com/
 ### Schedule
 We’ll have 1-1 meetings February 12-16 to check how everything is going. Please [book a 15-minute slot to meet in my calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVMMFRTZXRjRHF6fGRlZmF1bHR8N2I0ZDFiNzg0ZDU1YjEzMzE4MWI5ZTJkYTNjYzgxNmM).
 
-
+Location: Manzanita room at NCEAS.
 
 
 ## Upcoming Capstone Deadlines
