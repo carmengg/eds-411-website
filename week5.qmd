@@ -1,0 +1,69 @@
+# Week 5
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/10QC4K9uXQy5X5IdEQvxX8B0ZZq9b_DOQryzI-rPxX0g/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:10 : Questions & check-in 
+
+1:10 - 2:10: Git branching
+
+2:10 - 2:15: BREAK
+
+2:15 - 2:55: DIP Data Management peer review
+
+2:55 - 3:00: BREAK
+
+3:00 - 3:50: Testing 
+
+3:50 - 3:55: DIP Executive Summary
+
+3:55 - 4:00: Checklist for next class
+
+## To do by next week
+
+### Submit complete DIP draft
+
+Submit by 5pm on Friday 2/9 your complete DIP draft:
+
+- Incorporate the feedback you’ve received so far.
+- Send an email to your advisor and me with a link to you google doc.
+- **Make the most out of this revision:** it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.
+
+* Page limit:
+The Design and Implementation plan should be limited to 10 single-spaced pages of written text. This page limit does not include the title page, executive summary, graphics and figures, budget and justification, or references cited. 
+
+### Prepare a flash talk (last one!)
+
+
+Prepare 4 slides covering:
+
+- Slide 1: A cover slide 
+- Slide 2: Brief overview of project’s products and deliverables (don’t include academic ones) and which ones you are currently working on. 
+- Slide 3: An update or two on the progress you’ve made on the deliverables. Include code, graphs, or figures your team has generated. Explain how this work will integrate with or is a step towards your deliverable.
+- Slide 4:  Next steps.
+
+Pick a person or two who are ready to do a 3 minute presentation next class.
+Add slides to [Week 6 - Flash talks](https://drive.google.com/drive/folders/191CMQ8TTvh30lv3NraQFzdYwLOYB84hX?usp=share_link).
+
+Focus on: 
+
+- Switching “Shiny app” for “interactive web app” or “dashboard”
+- Avoiding big blocks of text. 
+- Clearly explaining the figures you feature (see class slides) and adding references and provenance where appropriate.
+- Professional presentation.
+- Seamless transitions between sections, clear, and precise speech.
+- Practice and time it! 
+
+### Practice Git
+Go to [https://learngitbranching.js.org/](https://learngitbranching.js.org/) and do the (short) exercises in these sections:
+
+- Main: introduction sequence and Ramping Up
+- Remote: Push & Pull – Git Remotes! 
+
+
+## Upcoming Capstone Deadlines
+
+![](images/winter_deadlines_3.png)
