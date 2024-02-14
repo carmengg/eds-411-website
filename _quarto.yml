@@ -15,6 +15,7 @@ website:
           - week3.qmd 
           - week4.qmd
           - week5.qmd
+          - week6.qmd
       - href: resources.qmd
         text: Resources
       
