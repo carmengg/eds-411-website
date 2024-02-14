@@ -6,6 +6,13 @@ Available for download at [Bren's Academic Resources webste](https://bren.ucsb.e
 
 ![](/images/winter_deadlines.png)
 
+## 2024 MEDS Capstones Faculty Review Schedule
+
+[Schedule](https://docs.google.com/document/d/13rNpK38MZSpTbZVxK5n2d2VGZptAqtR_7c0Ekvvup_E/edit?usp=sharing)
+
+## 2024 MEDS Capstone Faculty Review Evaluation
+[Rubric](https://docs.google.com/document/d/13rNpK38MZSpTbZVxK5n2d2VGZptAqtR_7c0Ekvvup_E/edit?usp=sharing)
+
 ## Example Design and Implementation Plans
 
 [Click here to view documents](https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) (only available to EDS 411 students). 
