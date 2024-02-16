@@ -27,25 +27,38 @@
 
 ## To do by next week
 
-### Prepare faculty review draft slides
+### Prepare faculty review mock presentation
 
 1. Read these [guidelines for your presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing).
+
 2. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
-3. Put together a skeleton slide deck (like an outline, but with the sections as slide headers) and populate them with stuff you have already. Focus on storyline! Consider discussing this outline with your faculty advisor. *Slides must be Google slides. 
-4. Decide on who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
-5. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1P-kO4Btnb0-vWJPiP5zxzRnpfOHS762P?usp=share_link).
 
-### Prepare to present next week
+3. **Put together a complete draft slide deck** following [Alex’s presentation, point 6](https://docs.google.com/presentation/d/1z9URIEa5Ex7FtDcTMTPbQrWO7mD8XHhdzlKLZzXhfEQ/edit?usp=sharing). It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line. 
 
-Practice: 
+4. Discuss your draft slides with your faculty advisor. They know the details about your project.
 
-- Everything we covered on Alex’s workshop!
+5. Decide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
+
+6. Add your draft slides to our [shared drive](https://drive.google.com/drive/folders/1P-kO4Btnb0-vWJPiP5zxzRnpfOHS762P?usp=share_link) and **be ready to do a formal mock presentation next week!** 
+
+*Additional considerations:*
+
+- Slides must be Google slides. 
+- Do not include any text (in images, plots, diagrams, etc) too small to read
+- Do not include code screenshots: think about effective ways to convey your progress.
+- Remember your audience: disciplinary experts with varying data science familiarity who will give you feedback about your objectives, approach, and methods.
+
+*Practice:*
+
+- Everything on Alex’s workshop!
 - Professional presentation: posture, tone, and clear speech
-- Using your memory: no notes
+- Using your memory (no notes)
 - Projecting your voice
 - Clearly explaining plots, graphs, and diagrams
 - Timing it: 12 minutes no more, no less
 - Having your team join you at the end for questions and feedback
+
+
 
 ## Update your DIP
 
