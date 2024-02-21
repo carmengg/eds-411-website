@@ -60,7 +60,7 @@
 
 
 
-## Update your DIP
+### Update your DIP
 
 If you have already received feedback from your advisor:
 
