@@ -1,0 +1,54 @@
+# Week 8
+
+## Materials
+
+[📚  Class slides](https://docs.google.com/presentation/d/1pugSayUSx9I-UTC9iD33Z0qNxQrQISNkJ84EfKaX-kk/edit?usp=sharing)
+
+[💬  Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+[🌟  Ten Ways to Improve Presentations - Alex Phillips, PhD](https://docs.google.com/presentation/d/1z9URIEa5Ex7FtDcTMTPbQrWO7mD8XHhdzlKLZzXhfEQ/edit#slide=id.g2b923656a78_0_20)
+
+[✅  Faculty Review Logistics - Emily Case](https://docs.google.com/presentation/d/1SS1xtBQEhOVMLV6JcKNH5MXBEe6D4ZmWaeHTKmqhnmE/edit?usp=sharing)
+
+[🗓️  Faculty Review Schedule](https://docs.google.com/document/d/13rNpK38MZSpTbZVxK5n2d2VGZptAqtR_7c0Ekvvup_E/edit?usp=sharing)
+
+[💯  Faculty Review Rubric](https://docs.google.com/document/d/1Rx8zHqRvHuzLxQxEmjBns4Jvs_A_tt2hiDnw8VPYNhY/edit?usp=sharing)
+
+
+## Schedule
+Order of presentations is indicated in each block.
+
+![](images/mocks2.png)
+
+
+
+## To do by next week
+
+### Prepare mock presentation 2.0
+
+- I might send you some extra comments and feedback after class
+- Incorporate the feedback and streamline your presentation
+- Iterate with your faculty advisor
+- Practice makes perfect. :-)
+
+### Prepare for Q&A
+
+- Go over this [presentation about best practices to answer questions](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing) about your presentation.
+- Identify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
+- Brainstorm who would be most appropriate to respond to questions in each bin.
+- Write down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review
+Prepare, if necessary, any extra slides you might need during your Q&A 
+
+### Keep working on...
+
+- Updating your DIP: **all DIPs need more details about their main deliverable**
+- Getting your preliminary results or creating a prototype for review
+
+## Reminders
+::: {.callout-tip}
+# Don't forget to:
+
+:::
+
+## Upcoming Capstone Deadlines
+![](images/winter_deadlines_5.png)
