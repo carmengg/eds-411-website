@@ -24,31 +24,33 @@ Order of presentations is indicated in each block.
 
 ## To do by next week
 
-### Prepare mock presentation 2.0
-
-- I might send you some extra comments and feedback after class
-- Incorporate the feedback and streamline your presentation
-- Iterate with your faculty advisor
-- Practice makes perfect. :-)
-
-### Prepare for Q&A
-
-- Go over this [presentation about best practices to answer questions](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing) about your presentation.
-- Identify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
-- Brainstorm who would be most appropriate to respond to questions in each bin.
-- Write down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review
-Prepare, if necessary, any extra slides you might need during your Q&A 
-
 ### Keep working on...
 
-- Updating your DIP: **all DIPs need more details about their main deliverable**
-- Getting your preliminary results or creating a prototype for review
+Updating your DIP:
 
-## Reminders
-::: {.callout-tip}
-# Don't forget to:
+- add details about your project your team has gathered while preparing for faculty reviews
+- got a cool diagram that succinctly describes your process or model? consider adding it to your DIP
 
-:::
+Getting your preliminary results or creating a prototype for review
+
+
+### Edit and practice your presentation
+
+- Have a mock presentation with your faculty advisor. Prioritize their feedback.
+- Make sure you are ready to explain any technical terms you mention in your presentation. 
+- I might send you some extra comments and feedback
+- Practice! That is half the battle.
+- If you would like to iterate once more with me, you’re welcome to schedule a 30 minute block [on my calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVMMFRTZXRjRHF6fGRlZmF1bHR8N2I0ZDFiNzg0ZDU1YjEzMzE4MWI5ZTJkYTNjYzgxNmM) on Friday (Manzanita room) or Monday morning (Sequoia room). 
+
+### Get ready for faculty reviews!
+
+Emily will send an email with important reminders next Monday. Meanwhile, review the following documents:
+
+- [Faculty Review logistics presentation](https://docs.google.com/presentation/d/1SS1xtBQEhOVMLV6JcKNH5MXBEe6D4ZmWaeHTKmqhnmE/edit?usp=sharing)
+- [Rubric](https://docs.google.com/document/d/1Rx8zHqRvHuzLxQxEmjBns4Jvs_A_tt2hiDnw8VPYNhY/edit?usp=sharing)
+- [Presentations schedule](https://docs.google.com/document/d/13rNpK38MZSpTbZVxK5n2d2VGZptAqtR_7c0Ekvvup_E/edit?usp=sharing)
+
+🌟 You got this! 🌟
 
 ## Upcoming Capstone Deadlines
 ![](images/winter_deadlines_5.png)
