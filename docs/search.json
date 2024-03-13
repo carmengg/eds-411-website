@@ -63,88 +63,144 @@
     "text": "UCSB Library Research Data Services\nGood enough practices to manage your project.\nContact at: rds@library.ucsb.edu"
   },
   {
-    "objectID": "week4.html",
-    "href": "week4.html",
-    "title": "Week 4",
+    "objectID": "week5.html",
+    "href": "week5.html",
+    "title": "Week 5",
     "section": "",
-    "text": "Class slides\n\n\nPresentation slides\nGood enough practices to manage your project\nData Mangamenet Plan recommendations (DCC template)\nContact: rds@library.ucsb.edu\n\n\n\n\n1:00 - 1:10 : Questions & check-in\n1:10 - 1:50: Capstone groups flash presentations\n1:50 - 1:55: BREAK\n1:55 - 2:25: DIP Documentation Plan\n2:25 - 2:30: BREAK\n2:30 - 3:55: Data Management - Julien Brun, Reserach Data Services, UCSB Library\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nContext: your Team Management Plan + Deliverables submissions and flashtalks, and the feedback you received.\nAdd this point to your next team meeting agenda:\nDiscuss what went well and and what could be better. How will our team improve?\n\nIs your team delivering high-quality work?\nDo you need to re-read the capstone guidelines?\nShould you seek more feedback or guidance from your - client/advisor?\nDoes your team need to share work earlier so everyone can revise?\nDo you need to establish new expectations or ground rules in your team management plan?\n\n\n\n\nA single-document draft of the DIP including:\n\nDraft of DIP Solution Design - Data Management Plan and Documentation Plan sections\nUpdates for all other sections you’ve drafted so far\nTitle page, budget and budget justification, and references section\nIn summary: everything in the DIP except for the testing plan and executive summary\n\nAdd document to the shared folder Week 4 - DIP draft.\n\n\n\n\n\n\n\n\n\n\n\nAllocate enough time discuss the Data Management Plan with your team and write it. This is one of the longer sections in the DIP.\nRemember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!\nCheck the DIP length requirements in the Capstone Guidelines and start discussing with your team whether you’ll need to shorten it by 2/9.\n\n\n\n\n\n\nWe’ll have 1-1 meetings February 12-16 to check how everything is going. Please book a 15-minute slot to meet in my calendar.\nLocation: Manzanita room at NCEAS."
+    "text": "Class slides\n\n\n\n1:00 - 1:10 : Questions & check-in\n1:10 - 2:10: Git branching\n2:10 - 2:15: BREAK\n2:15 - 2:55: DIP Data Management peer review\n2:55 - 3:00: BREAK\n3:00 - 3:50: Testing\n3:50 - 3:55: DIP Executive Summary\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nSubmit by 5pm on Friday 2/9 your complete DIP draft:\n\nIncorporate the feedback you’ve received so far.\nSend an email to your advisor and me with a link to you google doc.\nMake the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.\nPage limit: The Design and Implementation plan should be limited to 10 single-spaced pages of written text. This page limit does not include the title page, executive summary, graphics and figures, budget and justification, or references cited.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\nSlide 2: Brief overview of project’s products and deliverables (don’t include academic ones) and which ones you are currently working on.\nSlide 3: An update or two on the progress you’ve made on the deliverables. Include code, graphs, or figures your team has generated. Explain how this work will integrate with or is a step towards your deliverable.\nSlide 4: Next steps.\n\nPick a person or two who are ready to do a 3 minute presentation next class. Add slides to Week 6 - Flash talks.\nFocus on:\n\nSwitching “Shiny app” for “interactive web app” or “dashboard”\nAvoiding big blocks of text.\nClearly explaining the figures you feature (see class slides) and adding references and provenance where appropriate.\nProfessional presentation.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\n\n\n\n\nGo to https://learngitbranching.js.org/ and do the (short) exercises in these sections:\n\nMain: introduction sequence and Ramping Up\nRemote: Push & Pull – Git Remotes!"
   },
   {
-    "objectID": "week4.html#materials",
-    "href": "week4.html#materials",
-    "title": "Week 4",
+    "objectID": "week5.html#materials",
+    "href": "week5.html#materials",
+    "title": "Week 5",
     "section": "",
-    "text": "Class slides\n\n\nPresentation slides\nGood enough practices to manage your project\nData Mangamenet Plan recommendations (DCC template)\nContact: rds@library.ucsb.edu"
+    "text": "Class slides"
   },
   {
-    "objectID": "week4.html#schedule",
-    "href": "week4.html#schedule",
-    "title": "Week 4",
+    "objectID": "week5.html#schedule",
+    "href": "week5.html#schedule",
+    "title": "Week 5",
     "section": "",
-    "text": "1:00 - 1:10 : Questions & check-in\n1:10 - 1:50: Capstone groups flash presentations\n1:50 - 1:55: BREAK\n1:55 - 2:25: DIP Documentation Plan\n2:25 - 2:30: BREAK\n2:30 - 3:55: Data Management - Julien Brun, Reserach Data Services, UCSB Library\n3:55 - 4:00: Checklist for next class"
+    "text": "1:00 - 1:10 : Questions & check-in\n1:10 - 2:10: Git branching\n2:10 - 2:15: BREAK\n2:15 - 2:55: DIP Data Management peer review\n2:55 - 3:00: BREAK\n3:00 - 3:50: Testing\n3:50 - 3:55: DIP Executive Summary\n3:55 - 4:00: Checklist for next class"
   },
   {
-    "objectID": "week4.html#to-do-by-next-week",
-    "href": "week4.html#to-do-by-next-week",
-    "title": "Week 4",
+    "objectID": "week5.html#to-do-by-next-week",
+    "href": "week5.html#to-do-by-next-week",
+    "title": "Week 5",
     "section": "",
-    "text": "Context: your Team Management Plan + Deliverables submissions and flashtalks, and the feedback you received.\nAdd this point to your next team meeting agenda:\nDiscuss what went well and and what could be better. How will our team improve?\n\nIs your team delivering high-quality work?\nDo you need to re-read the capstone guidelines?\nShould you seek more feedback or guidance from your - client/advisor?\nDoes your team need to share work earlier so everyone can revise?\nDo you need to establish new expectations or ground rules in your team management plan?\n\n\n\n\nA single-document draft of the DIP including:\n\nDraft of DIP Solution Design - Data Management Plan and Documentation Plan sections\nUpdates for all other sections you’ve drafted so far\nTitle page, budget and budget justification, and references section\nIn summary: everything in the DIP except for the testing plan and executive summary\n\nAdd document to the shared folder Week 4 - DIP draft.\n\n\n\n\n\n\n\n\n\n\n\nAllocate enough time discuss the Data Management Plan with your team and write it. This is one of the longer sections in the DIP.\nRemember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!\nCheck the DIP length requirements in the Capstone Guidelines and start discussing with your team whether you’ll need to shorten it by 2/9.\n\n\n\n\n\n\nWe’ll have 1-1 meetings February 12-16 to check how everything is going. Please book a 15-minute slot to meet in my calendar.\nLocation: Manzanita room at NCEAS."
+    "text": "Submit by 5pm on Friday 2/9 your complete DIP draft:\n\nIncorporate the feedback you’ve received so far.\nSend an email to your advisor and me with a link to you google doc.\nMake the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.\nPage limit: The Design and Implementation plan should be limited to 10 single-spaced pages of written text. This page limit does not include the title page, executive summary, graphics and figures, budget and justification, or references cited.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\nSlide 2: Brief overview of project’s products and deliverables (don’t include academic ones) and which ones you are currently working on.\nSlide 3: An update or two on the progress you’ve made on the deliverables. Include code, graphs, or figures your team has generated. Explain how this work will integrate with or is a step towards your deliverable.\nSlide 4: Next steps.\n\nPick a person or two who are ready to do a 3 minute presentation next class. Add slides to Week 6 - Flash talks.\nFocus on:\n\nSwitching “Shiny app” for “interactive web app” or “dashboard”\nAvoiding big blocks of text.\nClearly explaining the figures you feature (see class slides) and adding references and provenance where appropriate.\nProfessional presentation.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\n\n\n\n\nGo to https://learngitbranching.js.org/ and do the (short) exercises in these sections:\n\nMain: introduction sequence and Ramping Up\nRemote: Push & Pull – Git Remotes!"
   },
   {
-    "objectID": "week7.html",
-    "href": "week7.html",
-    "title": "Week 7",
+    "objectID": "week6.html",
+    "href": "week6.html",
+    "title": "Week 6",
     "section": "",
-    "text": "Class slides\nResponding to questions slides\n\n\n\n\n\n\n\n\n\n\nI might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review\n\n\n\n\n\n\n\n\n\n\n\nThis is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
+    "text": "Class slides\nFaculty Review Logistics - Emily Case\nTen Ways to Improve Presentations - Alex Phillips, PhD\n\n\n\n1:00 - 1:10 : Questions & check-in\n1:10 - 1:55 : Flash presentations\n1:55 - 2:00: BREAK\n2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, NCEAS, AAAS Fellow\n3:30 - 3:35: BREAK\n3:35 - 3:55: Faculty Review Logistics - Emily Case, Bren School\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\n\nRead these guidelines for your presentation.\nDecide with your team what preliminary results, progress, or prototype you will include in your presentation\nPut together a complete draft slide deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line.\nDiscuss your draft slides with your faculty advisor. They know the details about your project.\nDecide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.\nAdd your draft slides to our shared drive and be ready to do a formal mock presentation next week!\n\nAdditional considerations:\n\nSlides must be Google slides.\nDo not include any text (in images, plots, diagrams, etc) too small to read\nDo not include code screenshots: think about effective ways to convey your progress.\nRemember your audience: disciplinary experts with varying data science familiarity who will give you feedback about your objectives, approach, and methods.\n\nPractice:\n\nEverything on Alex’s workshop!\nProfessional presentation: posture, tone, and clear speech\nUsing your memory (no notes)\nProjecting your voice\nClearly explaining plots, graphs, and diagrams\nTiming it: 12 minutes no more, no less\nHaving your team join you at the end for questions and feedback\n\n\n\n\nIf you have already received feedback from your advisor:\n\ndiscuss feedback with your team\nstart working on updating your draft\ncontact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first!"
   },
   {
-    "objectID": "week7.html#materials",
-    "href": "week7.html#materials",
-    "title": "Week 7",
+    "objectID": "week6.html#materials",
+    "href": "week6.html#materials",
+    "title": "Week 6",
     "section": "",
-    "text": "Class slides\nResponding to questions slides"
+    "text": "Class slides\nFaculty Review Logistics - Emily Case\nTen Ways to Improve Presentations - Alex Phillips, PhD"
   },
   {
-    "objectID": "week7.html#to-do-by-next-week",
-    "href": "week7.html#to-do-by-next-week",
-    "title": "Week 7",
+    "objectID": "week6.html#schedule",
+    "href": "week6.html#schedule",
+    "title": "Week 6",
     "section": "",
-    "text": "I might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review"
+    "text": "1:00 - 1:10 : Questions & check-in\n1:10 - 1:55 : Flash presentations\n1:55 - 2:00: BREAK\n2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, NCEAS, AAAS Fellow\n3:30 - 3:35: BREAK\n3:35 - 3:55: Faculty Review Logistics - Emily Case, Bren School\n3:55 - 4:00: Checklist for next class"
   },
   {
-    "objectID": "week7.html#meds-faculty-reviews-watch-party",
-    "href": "week7.html#meds-faculty-reviews-watch-party",
-    "title": "Week 7",
+    "objectID": "week6.html#to-do-by-next-week",
+    "href": "week6.html#to-do-by-next-week",
+    "title": "Week 6",
     "section": "",
-    "text": "This is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
+    "text": "Read these guidelines for your presentation.\nDecide with your team what preliminary results, progress, or prototype you will include in your presentation\nPut together a complete draft slide deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line.\nDiscuss your draft slides with your faculty advisor. They know the details about your project.\nDecide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.\nAdd your draft slides to our shared drive and be ready to do a formal mock presentation next week!\n\nAdditional considerations:\n\nSlides must be Google slides.\nDo not include any text (in images, plots, diagrams, etc) too small to read\nDo not include code screenshots: think about effective ways to convey your progress.\nRemember your audience: disciplinary experts with varying data science familiarity who will give you feedback about your objectives, approach, and methods.\n\nPractice:\n\nEverything on Alex’s workshop!\nProfessional presentation: posture, tone, and clear speech\nUsing your memory (no notes)\nProjecting your voice\nClearly explaining plots, graphs, and diagrams\nTiming it: 12 minutes no more, no less\nHaving your team join you at the end for questions and feedback\n\n\n\n\nIf you have already received feedback from your advisor:\n\ndiscuss feedback with your team\nstart working on updating your draft\ncontact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first!"
   },
   {
-    "objectID": "week2.html",
-    "href": "week2.html",
-    "title": "Week 2",
+    "objectID": "week3.html",
+    "href": "week3.html",
+    "title": "Week 3",
     "section": "",
-    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides\n\n\n\n1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nSubmit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
+    "text": "Class slides\n\n\n\n1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nDraft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
   },
   {
-    "objectID": "week2.html#materials",
-    "href": "week2.html#materials",
-    "title": "Week 2",
+    "objectID": "week3.html#materials",
+    "href": "week3.html#materials",
+    "title": "Week 3",
     "section": "",
-    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides"
+    "text": "Class slides"
   },
   {
-    "objectID": "week2.html#schedule",
-    "href": "week2.html#schedule",
-    "title": "Week 2",
+    "objectID": "week3.html#schedule",
+    "href": "week3.html#schedule",
+    "title": "Week 3",
     "section": "",
-    "text": "1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class"
+    "text": "1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class"
   },
   {
-    "objectID": "week2.html#to-do-by-next-week",
-    "href": "week2.html#to-do-by-next-week",
-    "title": "Week 2",
+    "objectID": "week3.html#to-do-by-next-week",
+    "href": "week3.html#to-do-by-next-week",
+    "title": "Week 3",
     "section": "",
-    "text": "Submit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
+    "text": "Draft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
+  },
+  {
+    "objectID": "week1.html",
+    "href": "week1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Slides\n\n\n\n1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class\n\n\n\n\n\nGoals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+  },
+  {
+    "objectID": "week1.html#materials",
+    "href": "week1.html#materials",
+    "title": "Week 1",
+    "section": "",
+    "text": "Slides"
+  },
+  {
+    "objectID": "week1.html#schedule",
+    "href": "week1.html#schedule",
+    "title": "Week 1",
+    "section": "",
+    "text": "1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class"
+  },
+  {
+    "objectID": "week1.html#to-do-by-next-week",
+    "href": "week1.html#to-do-by-next-week",
+    "title": "Week 1",
+    "section": "",
+    "text": "Goals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+  },
+  {
+    "objectID": "week8.html",
+    "href": "week8.html",
+    "title": "Week 8",
+    "section": "",
+    "text": "📚 Class slides\n💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD\n✅ Faculty Review Logistics - Emily Case\n🗓️ Faculty Review Schedule\n💯 Faculty Review Rubric\n\n\n\nOrder of presentations is indicated in each block.\n\n\n\n\n\n\nUpdating your DIP:\n\nadd details about your project your team has gathered while preparing for faculty reviews\ngot a cool diagram that succinctly describes your process or model? consider adding it to your DIP\n\nGetting your preliminary results or creating a prototype for review\n\n\n\n\nHave a mock presentation with your faculty advisor. Prioritize their feedback.\nMake sure you are ready to explain any technical terms you mention in your presentation.\nI might send you some extra comments and feedback\nPractice! That is half the battle.\nIf you would like to iterate once more with me, you’re welcome to schedule a 30 minute block on my calendar on Friday (Manzanita room) or Monday morning (Sequoia room).\n\n\n\n\nEmily will send an email with important reminders next Monday. Meanwhile, review the following documents:\n\nFaculty Review logistics presentation\nRubric\nPresentations schedule\n\n🌟 You got this! 🌟"
+  },
+  {
+    "objectID": "week8.html#materials",
+    "href": "week8.html#materials",
+    "title": "Week 8",
+    "section": "",
+    "text": "📚 Class slides\n💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD\n✅ Faculty Review Logistics - Emily Case\n🗓️ Faculty Review Schedule\n💯 Faculty Review Rubric"
+  },
+  {
+    "objectID": "week8.html#schedule",
+    "href": "week8.html#schedule",
+    "title": "Week 8",
+    "section": "",
+    "text": "Order of presentations is indicated in each block."
+  },
+  {
+    "objectID": "week8.html#to-do-by-next-week",
+    "href": "week8.html#to-do-by-next-week",
+    "title": "Week 8",
+    "section": "",
+    "text": "Updating your DIP:\n\nadd details about your project your team has gathered while preparing for faculty reviews\ngot a cool diagram that succinctly describes your process or model? consider adding it to your DIP\n\nGetting your preliminary results or creating a prototype for review\n\n\n\n\nHave a mock presentation with your faculty advisor. Prioritize their feedback.\nMake sure you are ready to explain any technical terms you mention in your presentation.\nI might send you some extra comments and feedback\nPractice! That is half the battle.\nIf you would like to iterate once more with me, you’re welcome to schedule a 30 minute block on my calendar on Friday (Manzanita room) or Monday morning (Sequoia room).\n\n\n\n\nEmily will send an email with important reminders next Monday. Meanwhile, review the following documents:\n\nFaculty Review logistics presentation\nRubric\nPresentations schedule\n\n🌟 You got this! 🌟"
   },
   {
     "objectID": "index.html",
@@ -189,143 +245,108 @@
     "text": "This website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
   },
   {
-    "objectID": "week8.html",
-    "href": "week8.html",
-    "title": "Week 8",
+    "objectID": "week2.html",
+    "href": "week2.html",
+    "title": "Week 2",
     "section": "",
-    "text": "📚 Class slides\n💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD\n✅ Faculty Review Logistics - Emily Case\n🗓️ Faculty Review Schedule\n💯 Faculty Review Rubric\n\n\n\nOrder of presentations is indicated in each block.\n\n\n\n\n\n\nUpdating your DIP:\n\nadd details about your project your team has gathered while preparing for faculty reviews\ngot a cool diagram that succinctly describes your process or model? consider adding it to your DIP\n\nGetting your preliminary results or creating a prototype for review\n\n\n\n\nHave a mock presentation with your faculty advisor. Prioritize their feedback.\nMake sure you are ready to explain any technical terms you mention in your presentation.\nI might send you some extra comments and feedback\nPractice! That is half the battle.\nIf you would like to iterate once more with me, you’re welcome to schedule a 30 minute block on my calendar on Friday (Manzanita room) or Monday morning (Sequoia room).\n\n\n\n\nEmily will send an email with important reminders next Monday. Meanwhile, review the following documents:\n\nFaculty Review logistics presentation\nRubric\nPresentations schedule\n\n🌟 You got this! 🌟"
+    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides\n\n\n\n1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nSubmit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
   },
   {
-    "objectID": "week8.html#materials",
-    "href": "week8.html#materials",
-    "title": "Week 8",
+    "objectID": "week2.html#materials",
+    "href": "week2.html#materials",
+    "title": "Week 2",
     "section": "",
-    "text": "📚 Class slides\n💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD\n✅ Faculty Review Logistics - Emily Case\n🗓️ Faculty Review Schedule\n💯 Faculty Review Rubric"
+    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides"
   },
   {
-    "objectID": "week8.html#schedule",
-    "href": "week8.html#schedule",
-    "title": "Week 8",
+    "objectID": "week2.html#schedule",
+    "href": "week2.html#schedule",
+    "title": "Week 2",
     "section": "",
-    "text": "Order of presentations is indicated in each block."
+    "text": "1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class"
   },
   {
-    "objectID": "week8.html#to-do-by-next-week",
-    "href": "week8.html#to-do-by-next-week",
-    "title": "Week 8",
+    "objectID": "week2.html#to-do-by-next-week",
+    "href": "week2.html#to-do-by-next-week",
+    "title": "Week 2",
     "section": "",
-    "text": "Updating your DIP:\n\nadd details about your project your team has gathered while preparing for faculty reviews\ngot a cool diagram that succinctly describes your process or model? consider adding it to your DIP\n\nGetting your preliminary results or creating a prototype for review\n\n\n\n\nHave a mock presentation with your faculty advisor. Prioritize their feedback.\nMake sure you are ready to explain any technical terms you mention in your presentation.\nI might send you some extra comments and feedback\nPractice! That is half the battle.\nIf you would like to iterate once more with me, you’re welcome to schedule a 30 minute block on my calendar on Friday (Manzanita room) or Monday morning (Sequoia room).\n\n\n\n\nEmily will send an email with important reminders next Monday. Meanwhile, review the following documents:\n\nFaculty Review logistics presentation\nRubric\nPresentations schedule\n\n🌟 You got this! 🌟"
+    "text": "Submit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
   },
   {
-    "objectID": "week1.html",
-    "href": "week1.html",
-    "title": "Week 1",
+    "objectID": "week7.html",
+    "href": "week7.html",
+    "title": "Week 7",
     "section": "",
-    "text": "Slides\n\n\n\n1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class\n\n\n\n\n\nGoals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+    "text": "Class slides\nResponding to questions slides\n\n\n\n\n\n\n\n\n\n\nI might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review\n\n\n\n\n\n\n\n\n\n\n\nThis is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
   },
   {
-    "objectID": "week1.html#materials",
-    "href": "week1.html#materials",
-    "title": "Week 1",
+    "objectID": "week7.html#materials",
+    "href": "week7.html#materials",
+    "title": "Week 7",
     "section": "",
-    "text": "Slides"
+    "text": "Class slides\nResponding to questions slides"
   },
   {
-    "objectID": "week1.html#schedule",
-    "href": "week1.html#schedule",
-    "title": "Week 1",
+    "objectID": "week7.html#to-do-by-next-week",
+    "href": "week7.html#to-do-by-next-week",
+    "title": "Week 7",
     "section": "",
-    "text": "1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class"
+    "text": "I might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review"
   },
   {
-    "objectID": "week1.html#to-do-by-next-week",
-    "href": "week1.html#to-do-by-next-week",
-    "title": "Week 1",
+    "objectID": "week7.html#meds-faculty-reviews-watch-party",
+    "href": "week7.html#meds-faculty-reviews-watch-party",
+    "title": "Week 7",
     "section": "",
-    "text": "Goals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+    "text": "This is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
   },
   {
-    "objectID": "week3.html",
-    "href": "week3.html",
-    "title": "Week 3",
+    "objectID": "week4.html",
+    "href": "week4.html",
+    "title": "Week 4",
     "section": "",
-    "text": "Class slides\n\n\n\n1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nDraft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
+    "text": "Class slides\n\n\nPresentation slides\nGood enough practices to manage your project\nData Mangamenet Plan recommendations (DCC template)\nContact: rds@library.ucsb.edu\n\n\n\n\n1:00 - 1:10 : Questions & check-in\n1:10 - 1:50: Capstone groups flash presentations\n1:50 - 1:55: BREAK\n1:55 - 2:25: DIP Documentation Plan\n2:25 - 2:30: BREAK\n2:30 - 3:55: Data Management - Julien Brun, Reserach Data Services, UCSB Library\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nContext: your Team Management Plan + Deliverables submissions and flashtalks, and the feedback you received.\nAdd this point to your next team meeting agenda:\nDiscuss what went well and and what could be better. How will our team improve?\n\nIs your team delivering high-quality work?\nDo you need to re-read the capstone guidelines?\nShould you seek more feedback or guidance from your - client/advisor?\nDoes your team need to share work earlier so everyone can revise?\nDo you need to establish new expectations or ground rules in your team management plan?\n\n\n\n\nA single-document draft of the DIP including:\n\nDraft of DIP Solution Design - Data Management Plan and Documentation Plan sections\nUpdates for all other sections you’ve drafted so far\nTitle page, budget and budget justification, and references section\nIn summary: everything in the DIP except for the testing plan and executive summary\n\nAdd document to the shared folder Week 4 - DIP draft.\n\n\n\n\n\n\n\n\n\n\n\nAllocate enough time discuss the Data Management Plan with your team and write it. This is one of the longer sections in the DIP.\nRemember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!\nCheck the DIP length requirements in the Capstone Guidelines and start discussing with your team whether you’ll need to shorten it by 2/9.\n\n\n\n\n\n\nWe’ll have 1-1 meetings February 12-16 to check how everything is going. Please book a 15-minute slot to meet in my calendar.\nLocation: Manzanita room at NCEAS."
   },
   {
-    "objectID": "week3.html#materials",
-    "href": "week3.html#materials",
-    "title": "Week 3",
+    "objectID": "week4.html#materials",
+    "href": "week4.html#materials",
+    "title": "Week 4",
+    "section": "",
+    "text": "Class slides\n\n\nPresentation slides\nGood enough practices to manage your project\nData Mangamenet Plan recommendations (DCC template)\nContact: rds@library.ucsb.edu"
+  },
+  {
+    "objectID": "week4.html#schedule",
+    "href": "week4.html#schedule",
+    "title": "Week 4",
+    "section": "",
+    "text": "1:00 - 1:10 : Questions & check-in\n1:10 - 1:50: Capstone groups flash presentations\n1:50 - 1:55: BREAK\n1:55 - 2:25: DIP Documentation Plan\n2:25 - 2:30: BREAK\n2:30 - 3:55: Data Management - Julien Brun, Reserach Data Services, UCSB Library\n3:55 - 4:00: Checklist for next class"
+  },
+  {
+    "objectID": "week4.html#to-do-by-next-week",
+    "href": "week4.html#to-do-by-next-week",
+    "title": "Week 4",
+    "section": "",
+    "text": "Context: your Team Management Plan + Deliverables submissions and flashtalks, and the feedback you received.\nAdd this point to your next team meeting agenda:\nDiscuss what went well and and what could be better. How will our team improve?\n\nIs your team delivering high-quality work?\nDo you need to re-read the capstone guidelines?\nShould you seek more feedback or guidance from your - client/advisor?\nDoes your team need to share work earlier so everyone can revise?\nDo you need to establish new expectations or ground rules in your team management plan?\n\n\n\n\nA single-document draft of the DIP including:\n\nDraft of DIP Solution Design - Data Management Plan and Documentation Plan sections\nUpdates for all other sections you’ve drafted so far\nTitle page, budget and budget justification, and references section\nIn summary: everything in the DIP except for the testing plan and executive summary\n\nAdd document to the shared folder Week 4 - DIP draft.\n\n\n\n\n\n\n\n\n\n\n\nAllocate enough time discuss the Data Management Plan with your team and write it. This is one of the longer sections in the DIP.\nRemember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!\nCheck the DIP length requirements in the Capstone Guidelines and start discussing with your team whether you’ll need to shorten it by 2/9.\n\n\n\n\n\n\nWe’ll have 1-1 meetings February 12-16 to check how everything is going. Please book a 15-minute slot to meet in my calendar.\nLocation: Manzanita room at NCEAS."
+  },
+  {
+    "objectID": "week10.html",
+    "href": "week10.html",
+    "title": "Week 10",
+    "section": "",
+    "text": "Class slides\n\n\n\n\n\n\n\n\n\n\nUpload it to Box in PDF format with your Capstone Project short name (e.g., GaiaFuture Design and Implementation Plan.pdf).\nEmail to your faculty advisor and client: be professional and thank them for their involvement.\n\n\n\n\n\nEnter a link to your project repository on this Google sheet. This can be a link to your Capstone project GitHub organization or a specific repository.\n\n\n\n\n\nEach student must complete a Capstone Project Peer & Self Evaluation Form for Winter Quarter.\nUpload your evaluation form to Box and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Emily Case).\nYou must also email your evaluation directly to your faculty advisor.\n\n\n\n\n\nAddressing conflict workshop survey (5 minutes).\nUCSB course survey (10 minutes): https://ucsb.bluera.com/ucsb"
+  },
+  {
+    "objectID": "week10.html#materials",
+    "href": "week10.html#materials",
+    "title": "Week 10",
     "section": "",
     "text": "Class slides"
   },
   {
-    "objectID": "week3.html#schedule",
-    "href": "week3.html#schedule",
-    "title": "Week 3",
+    "objectID": "week10.html#to-do-by-friday",
+    "href": "week10.html#to-do-by-friday",
+    "title": "Week 10",
     "section": "",
-    "text": "1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class"
-  },
-  {
-    "objectID": "week3.html#to-do-by-next-week",
-    "href": "week3.html#to-do-by-next-week",
-    "title": "Week 3",
-    "section": "",
-    "text": "Draft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
-  },
-  {
-    "objectID": "week6.html",
-    "href": "week6.html",
-    "title": "Week 6",
-    "section": "",
-    "text": "Class slides\nFaculty Review Logistics - Emily Case\nTen Ways to Improve Presentations - Alex Phillips, PhD\n\n\n\n1:00 - 1:10 : Questions & check-in\n1:10 - 1:55 : Flash presentations\n1:55 - 2:00: BREAK\n2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, NCEAS, AAAS Fellow\n3:30 - 3:35: BREAK\n3:35 - 3:55: Faculty Review Logistics - Emily Case, Bren School\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\n\nRead these guidelines for your presentation.\nDecide with your team what preliminary results, progress, or prototype you will include in your presentation\nPut together a complete draft slide deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line.\nDiscuss your draft slides with your faculty advisor. They know the details about your project.\nDecide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.\nAdd your draft slides to our shared drive and be ready to do a formal mock presentation next week!\n\nAdditional considerations:\n\nSlides must be Google slides.\nDo not include any text (in images, plots, diagrams, etc) too small to read\nDo not include code screenshots: think about effective ways to convey your progress.\nRemember your audience: disciplinary experts with varying data science familiarity who will give you feedback about your objectives, approach, and methods.\n\nPractice:\n\nEverything on Alex’s workshop!\nProfessional presentation: posture, tone, and clear speech\nUsing your memory (no notes)\nProjecting your voice\nClearly explaining plots, graphs, and diagrams\nTiming it: 12 minutes no more, no less\nHaving your team join you at the end for questions and feedback\n\n\n\n\nIf you have already received feedback from your advisor:\n\ndiscuss feedback with your team\nstart working on updating your draft\ncontact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first!"
-  },
-  {
-    "objectID": "week6.html#materials",
-    "href": "week6.html#materials",
-    "title": "Week 6",
-    "section": "",
-    "text": "Class slides\nFaculty Review Logistics - Emily Case\nTen Ways to Improve Presentations - Alex Phillips, PhD"
-  },
-  {
-    "objectID": "week6.html#schedule",
-    "href": "week6.html#schedule",
-    "title": "Week 6",
-    "section": "",
-    "text": "1:00 - 1:10 : Questions & check-in\n1:10 - 1:55 : Flash presentations\n1:55 - 2:00: BREAK\n2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, NCEAS, AAAS Fellow\n3:30 - 3:35: BREAK\n3:35 - 3:55: Faculty Review Logistics - Emily Case, Bren School\n3:55 - 4:00: Checklist for next class"
-  },
-  {
-    "objectID": "week6.html#to-do-by-next-week",
-    "href": "week6.html#to-do-by-next-week",
-    "title": "Week 6",
-    "section": "",
-    "text": "Read these guidelines for your presentation.\nDecide with your team what preliminary results, progress, or prototype you will include in your presentation\nPut together a complete draft slide deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line.\nDiscuss your draft slides with your faculty advisor. They know the details about your project.\nDecide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.\nAdd your draft slides to our shared drive and be ready to do a formal mock presentation next week!\n\nAdditional considerations:\n\nSlides must be Google slides.\nDo not include any text (in images, plots, diagrams, etc) too small to read\nDo not include code screenshots: think about effective ways to convey your progress.\nRemember your audience: disciplinary experts with varying data science familiarity who will give you feedback about your objectives, approach, and methods.\n\nPractice:\n\nEverything on Alex’s workshop!\nProfessional presentation: posture, tone, and clear speech\nUsing your memory (no notes)\nProjecting your voice\nClearly explaining plots, graphs, and diagrams\nTiming it: 12 minutes no more, no less\nHaving your team join you at the end for questions and feedback\n\n\n\n\nIf you have already received feedback from your advisor:\n\ndiscuss feedback with your team\nstart working on updating your draft\ncontact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first!"
-  },
-  {
-    "objectID": "week5.html",
-    "href": "week5.html",
-    "title": "Week 5",
-    "section": "",
-    "text": "Class slides\n\n\n\n1:00 - 1:10 : Questions & check-in\n1:10 - 2:10: Git branching\n2:10 - 2:15: BREAK\n2:15 - 2:55: DIP Data Management peer review\n2:55 - 3:00: BREAK\n3:00 - 3:50: Testing\n3:50 - 3:55: DIP Executive Summary\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nSubmit by 5pm on Friday 2/9 your complete DIP draft:\n\nIncorporate the feedback you’ve received so far.\nSend an email to your advisor and me with a link to you google doc.\nMake the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.\nPage limit: The Design and Implementation plan should be limited to 10 single-spaced pages of written text. This page limit does not include the title page, executive summary, graphics and figures, budget and justification, or references cited.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\nSlide 2: Brief overview of project’s products and deliverables (don’t include academic ones) and which ones you are currently working on.\nSlide 3: An update or two on the progress you’ve made on the deliverables. Include code, graphs, or figures your team has generated. Explain how this work will integrate with or is a step towards your deliverable.\nSlide 4: Next steps.\n\nPick a person or two who are ready to do a 3 minute presentation next class. Add slides to Week 6 - Flash talks.\nFocus on:\n\nSwitching “Shiny app” for “interactive web app” or “dashboard”\nAvoiding big blocks of text.\nClearly explaining the figures you feature (see class slides) and adding references and provenance where appropriate.\nProfessional presentation.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\n\n\n\n\nGo to https://learngitbranching.js.org/ and do the (short) exercises in these sections:\n\nMain: introduction sequence and Ramping Up\nRemote: Push & Pull – Git Remotes!"
-  },
-  {
-    "objectID": "week5.html#materials",
-    "href": "week5.html#materials",
-    "title": "Week 5",
-    "section": "",
-    "text": "Class slides"
-  },
-  {
-    "objectID": "week5.html#schedule",
-    "href": "week5.html#schedule",
-    "title": "Week 5",
-    "section": "",
-    "text": "1:00 - 1:10 : Questions & check-in\n1:10 - 2:10: Git branching\n2:10 - 2:15: BREAK\n2:15 - 2:55: DIP Data Management peer review\n2:55 - 3:00: BREAK\n3:00 - 3:50: Testing\n3:50 - 3:55: DIP Executive Summary\n3:55 - 4:00: Checklist for next class"
-  },
-  {
-    "objectID": "week5.html#to-do-by-next-week",
-    "href": "week5.html#to-do-by-next-week",
-    "title": "Week 5",
-    "section": "",
-    "text": "Submit by 5pm on Friday 2/9 your complete DIP draft:\n\nIncorporate the feedback you’ve received so far.\nSend an email to your advisor and me with a link to you google doc.\nMake the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.\nPage limit: The Design and Implementation plan should be limited to 10 single-spaced pages of written text. This page limit does not include the title page, executive summary, graphics and figures, budget and justification, or references cited.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\nSlide 2: Brief overview of project’s products and deliverables (don’t include academic ones) and which ones you are currently working on.\nSlide 3: An update or two on the progress you’ve made on the deliverables. Include code, graphs, or figures your team has generated. Explain how this work will integrate with or is a step towards your deliverable.\nSlide 4: Next steps.\n\nPick a person or two who are ready to do a 3 minute presentation next class. Add slides to Week 6 - Flash talks.\nFocus on:\n\nSwitching “Shiny app” for “interactive web app” or “dashboard”\nAvoiding big blocks of text.\nClearly explaining the figures you feature (see class slides) and adding references and provenance where appropriate.\nProfessional presentation.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\n\n\n\n\nGo to https://learngitbranching.js.org/ and do the (short) exercises in these sections:\n\nMain: introduction sequence and Ramping Up\nRemote: Push & Pull – Git Remotes!"
+    "text": "Upload it to Box in PDF format with your Capstone Project short name (e.g., GaiaFuture Design and Implementation Plan.pdf).\nEmail to your faculty advisor and client: be professional and thank them for their involvement.\n\n\n\n\n\nEnter a link to your project repository on this Google sheet. This can be a link to your Capstone project GitHub organization or a specific repository.\n\n\n\n\n\nEach student must complete a Capstone Project Peer & Self Evaluation Form for Winter Quarter.\nUpload your evaluation form to Box and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Emily Case).\nYou must also email your evaluation directly to your faculty advisor.\n\n\n\n\n\nAddressing conflict workshop survey (5 minutes).\nUCSB course survey (10 minutes): https://ucsb.bluera.com/ucsb"
   }
 ]

@@ -18,6 +18,7 @@ website:
           - week6.qmd
           - week7.qmd
           - week8.qmd
+          - week10.qmd
       - href: resources.qmd
         text: Resources
       

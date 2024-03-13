@@ -1,0 +1,32 @@
+# Week 10
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/1JLLbrBx3BJguN78VT9FZIGz9Hc1iCxzlULY9JhY6bVg/edit?usp=sharing)
+
+## Upcoming Capstone Deadlines
+![](images/winter_deadlines_6.png)
+
+## To do by Friday
+
+### Final Design and Implementation Plan
+- Upload it to Box in PDF format with your Capstone Project short name (e.g., GaiaFuture Design and Implementation Plan.pdf).
+- Email to your faculty advisor and client: be professional and thank them for their involvement.
+
+### Project Repository
+- Enter a link to your project repository on this Google sheet. This can be a link to your Capstone project GitHub organization or a specific repository. 
+
+### Peer/Self Evaluation
+- Each student must complete a Capstone Project Peer & Self Evaluation Form for Winter Quarter. 
+- Upload your evaluation form to Box and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Emily Case).
+- You must also email your evaluation directly to your faculty advisor. 
+
+### Class surveys
+
+1. [Addressing conflict workshop survey (5 minutes)](https://docs.google.com/forms/d/e/1FAIpQLSeK5BdzXDWP5XCOxGTJDFxPIFxVZ8SZxglQvl3eTaJm0Gptww/viewform). 
+
+
+2. UCSB course survey  (10 minutes): 
+[https://ucsb.bluera.com/ucsb](https://ucsb.bluera.com/ucsb)
+
+![](/images/spring_break.png)
