@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "EDS 411A"
+  title: "EDS 411"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - text: "Weekly materials"
+      - text: "Winter 411A"
         menu: 
+          - 411a_winter/411a_overview.qmd
           - week1.qmd 
           - week2.qmd      
           - week3.qmd 
@@ -19,6 +20,9 @@ website:
           - week7.qmd
           - week8.qmd
           - week10.qmd
+      - text: "Spring 411B"
+        menu:    
+          - 411b_spring/411b_week1.qmd       
       - href: resources.qmd
         text: Resources
       

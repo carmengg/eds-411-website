@@ -1,10 +1,8 @@
----
-title: "EDS 411: MEDS Capstone Courses"
----
+# Overview
 
-# Welcome! {.unnumbered}
+## Welcome! {.unnumbered}
 
-Welcome to the course materials for EDS 411 - MEDS Capstone! This course sequence is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Mananagement](https://bren.ucsb.edu). 
+Welcome to the course materials for EDS 411A - MEDS Capstone! This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Mananagement](https://bren.ucsb.edu). 
 
 In this website you will find the materials covered during lectures for the Winter 2024 term. *This site will be under construction throughout the course.* 
 
