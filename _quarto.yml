@@ -21,7 +21,8 @@ website:
           - week8.qmd
           - week10.qmd
       - text: "Spring 411B"
-        menu:    
+        menu: 
+          - 411b_spring/411b_overview.qmd   
           - 411b_spring/411b_week1.qmd       
       - href: resources.qmd
         text: Resources

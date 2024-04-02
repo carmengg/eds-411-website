@@ -1,0 +1,44 @@
+# Overview
+
+## Welcome! {.unnumbered}
+
+Welcome to the course materials for EDS 411B - MEDS Capstone! This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Mananagement](https://bren.ucsb.edu). 
+
+Here you will find the materials covered during lectures for the Spring 2024 term. 
+
+*This site will be under construction throughout the course.* 
+
+## About
+The goal of EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411B provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution). 
+
+## Instructor
+**Carmen Galaz García** 
+
+Pronouns: she/her/hers
+
+E-mail: c_galazgarcia@ucsb.edu
+
+Office hour: by appointmnet, Zoom or NCEAS classroom
+
+Best way to contact me: e-mail, Slack
+
+## TA
+
+**Allie Caughman**
+
+Pronouns: she/her/hers
+
+E-mail: acaughman@bren.ucsb.edu
+
+Office hours: [please schedule through calendar](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2x_X7IUZE2AkG7rEEWSzVia5Dcz4yyOnSvqc6ULvrm2XSi-AHF7zOQJEcZBUJ-PpnAFH3ZjVZy)
+
+Best way to contact me: Slack
+
+
+## Syllabus
+[Click here to view the syllabus.](https://docs.google.com/document/d/10Apn28XssTao9Dex6-he5wTqH7Mmke4DTBLRr_7Qauw/edit?usp=sharing)
+
+## Calendar
+The following is our ideal calendar, the course content may be subject to change as the course progresses. 
+
+![](/images/411b_spring/spring_calendar.png)
