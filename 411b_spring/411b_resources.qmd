@@ -1,0 +1,39 @@
+# 411B Resources
+
+## Spring Quarter Deadlines
+
+![](/images/411b_spring/spring_deadlines.png)
+
+## Capstone Process Documents
+
+📑 Capstone Project Guidelines MEDS 2024. Available for download at [Bren's Academic Resources website](https://bren.ucsb.edu/academic-resources-current-students).
+
+[🛟 Capstone help "order of operations"](https://drive.google.com/file/d/1W699qeRlQOw_wQCJg0eAMziwCNrvQ7Ur/view?usp=share_link) (only available to EDS 411 students). 
+
+## UCSB Library Research Data Services
+
+[🆗 Good enough practices to manage your project.](https://ucsb-library-research-data-services.github.io/project-data-management/)
+
+📨 Contact RDS at: rds@library.ucsb.edu
+
+<!--
+## Final Presentation Resources
+
+[✅  Final Presentation Logistics - Emily Case](https://docs.google.com/presentation/d/1SS1xtBQEhOVMLV6JcKNH5MXBEe6D4ZmWaeHTKmqhnmE/edit?usp=sharing)
+
+[🗓️  Faculty Review Schedule](https://docs.google.com/document/d/13rNpK38MZSpTbZVxK5n2d2VGZptAqtR_7c0Ekvvup_E/edit?usp=sharing)
+-->
+
+## Public Speaking Resources
+
+[💬  Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+[🌟  Ten Ways to Improve Presentations - Alex Phillips, PhD](https://docs.google.com/presentation/d/1z9URIEa5Ex7FtDcTMTPbQrWO7mD8XHhdzlKLZzXhfEQ/edit#slide=id.g2b923656a78_0_20)
+
+## Technical Documentation Resources
+
+[📓 Selected sample TDs](https://drive.google.com/drive/folders/1idEe6rJO-x_HjyywJP9PcM6sFkWeg3iF?usp=share_link) (only available to EDS 411 students). 
+
+🗃 The Technical Documentations for all MEDS Capstone projects are publicly accessible through the [capstone projects index at Bren’s website](https://bren.ucsb.edu/projects?f%5B0%5D=project-program%3A63).
+
+
