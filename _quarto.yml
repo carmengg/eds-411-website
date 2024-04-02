@@ -20,12 +20,12 @@ website:
           - week7.qmd
           - week8.qmd
           - week10.qmd
+          - 411a_winter/411a_resources.qmd
       - text: "Spring 411B"
         menu: 
           - 411b_spring/411b_overview.qmd   
-          - 411b_spring/411b_week1.qmd       
-      - href: resources.qmd
-        text: Resources
+          - 411b_spring/411b_week1.qmd   
+          - 411b_spring/411b_resources.qmd       
       
 
 format:

@@ -9,6 +9,9 @@ In this website you will find the materials covered during lectures for the Wint
 ## About
 The goal of EDS 411A is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution). 
 
+## Syllabus
+[Click here to view syllabus.](https://docs.google.com/document/d/17tNj8Ie-FG6Q72tFTo11q7D3K_tOrMH1MbKpsZhnwTI/edit?usp=sharing)
+
 ## Instructor
 **Carmen Galaz García** 
 
@@ -19,9 +22,6 @@ E-mail: c_galazgarcia@ucsb.edu
 Office hour: by appointmnet, Zoom or NCEAS classroom
 
 Best way to contact me: e-mail, Slack
-
-## Syllabus
-[Click here to view syllabus.](https://docs.google.com/document/d/17tNj8Ie-FG6Q72tFTo11q7D3K_tOrMH1MbKpsZhnwTI/edit?usp=sharing)
 
 ## Calendar
 The following is our ideal calendar, the course content may be subject to change as the course progresses. 

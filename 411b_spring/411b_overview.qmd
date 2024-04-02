@@ -11,6 +11,9 @@ Here you will find the materials covered during lectures for the Spring 2024 ter
 ## About
 The goal of EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411B provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution). 
 
+## Syllabus
+[Click here to view the syllabus.](https://docs.google.com/document/d/10Apn28XssTao9Dex6-he5wTqH7Mmke4DTBLRr_7Qauw/edit?usp=sharing)
+
 ## Instructor
 **Carmen Galaz García** 
 
@@ -33,10 +36,6 @@ E-mail: acaughman@bren.ucsb.edu
 Office hours: [please schedule through calendar](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2x_X7IUZE2AkG7rEEWSzVia5Dcz4yyOnSvqc6ULvrm2XSi-AHF7zOQJEcZBUJ-PpnAFH3ZjVZy)
 
 Best way to contact me: Slack
-
-
-## Syllabus
-[Click here to view the syllabus.](https://docs.google.com/document/d/10Apn28XssTao9Dex6-he5wTqH7Mmke4DTBLRr_7Qauw/edit?usp=sharing)
 
 ## Calendar
 The following is our ideal calendar, the course content may be subject to change as the course progresses. 

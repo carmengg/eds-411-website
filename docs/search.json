@@ -14,46 +14,11 @@
     "text": "Available for download at Bren’s Academic Resources webste."
   },
   {
-    "objectID": "resources.html#winter-deadlines",
-    "href": "resources.html#winter-deadlines",
-    "title": "EDS 411",
-    "section": "Winter Deadlines",
-    "text": "Winter Deadlines"
-  },
-  {
-    "objectID": "resources.html#meds-capstones-faculty-review-schedule",
-    "href": "resources.html#meds-capstones-faculty-review-schedule",
-    "title": "EDS 411",
-    "section": "2024 MEDS Capstones Faculty Review Schedule",
-    "text": "2024 MEDS Capstones Faculty Review Schedule\nSchedule"
-  },
-  {
-    "objectID": "resources.html#meds-capstone-faculty-review-rubric",
-    "href": "resources.html#meds-capstone-faculty-review-rubric",
-    "title": "EDS 411",
-    "section": "2024 MEDS Capstone Faculty Review Rubric",
-    "text": "2024 MEDS Capstone Faculty Review Rubric\nRubric"
-  },
-  {
-    "objectID": "resources.html#example-design-and-implementation-plans",
-    "href": "resources.html#example-design-and-implementation-plans",
-    "title": "EDS 411",
-    "section": "Example Design and Implementation Plans",
-    "text": "Example Design and Implementation Plans\nClick here to view documents (only available to EDS 411 students)."
-  },
-  {
     "objectID": "resources.html#capstone-help-order-of-operations",
     "href": "resources.html#capstone-help-order-of-operations",
     "title": "EDS 411",
     "section": "Capstone help “order of operations”",
     "text": "Capstone help “order of operations”\nClick here to view diagram (only available to EDS 411 students)."
-  },
-  {
-    "objectID": "resources.html#roadmap-to-first-draft-of-design-and-implementation-plan",
-    "href": "resources.html#roadmap-to-first-draft-of-design-and-implementation-plan",
-    "title": "EDS 411",
-    "section": "Roadmap to First Draft of Design and Implementation Plan",
-    "text": "Roadmap to First Draft of Design and Implementation Plan\n\n\n\n\n\n\n\n\nDIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle page\n-\nWeek 5 - Feb 9\n\n\nExecutive summary\nWeek 5 - Feb 7\nWeek 5 - Feb 9\n\n\nProblem statement and objectives\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nSolution Design: Approach and Methods\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nSolution Design: Data Management Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 6\n\n\nSolution Design: Proposed Software and Tools\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nProducts and Deliverables\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nDocumentation Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 7\n\n\nTesting Plan\nWeek 5 - Feb 7\nWeek 5 - Feb 9 1\n\n\nTimelines and Milestones\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nTeam Management Plan\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 9 2\n\n\nReferences\n-\nWeek 5 - Feb 9\n\n\n\n\nRevisit timeline, milestones, and software & tools to include testing\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
   },
   {
     "objectID": "resources.html#ucsb-library-research-data-services",
@@ -119,116 +84,102 @@
     "text": "Read these guidelines for your presentation.\nDecide with your team what preliminary results, progress, or prototype you will include in your presentation\nPut together a complete draft slide deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line.\nDiscuss your draft slides with your faculty advisor. They know the details about your project.\nDecide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.\nAdd your draft slides to our shared drive and be ready to do a formal mock presentation next week!\n\nAdditional considerations:\n\nSlides must be Google slides.\nDo not include any text (in images, plots, diagrams, etc) too small to read\nDo not include code screenshots: think about effective ways to convey your progress.\nRemember your audience: disciplinary experts with varying data science familiarity who will give you feedback about your objectives, approach, and methods.\n\nPractice:\n\nEverything on Alex’s workshop!\nProfessional presentation: posture, tone, and clear speech\nUsing your memory (no notes)\nProjecting your voice\nClearly explaining plots, graphs, and diagrams\nTiming it: 12 minutes no more, no less\nHaving your team join you at the end for questions and feedback\n\n\n\n\nIf you have already received feedback from your advisor:\n\ndiscuss feedback with your team\nstart working on updating your draft\ncontact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first!"
   },
   {
-    "objectID": "411b_spring/411b_overview.html",
-    "href": "411b_spring/411b_overview.html",
-    "title": "Overview",
+    "objectID": "411b_spring/411b_week1.html",
+    "href": "411b_spring/411b_week1.html",
+    "title": "Week 1 - course overview",
     "section": "",
-    "text": "Welcome to the course materials for EDS 411B - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nHere you will find the materials covered during lectures for the Spring 2024 term.\nThis site will be under construction throughout the course.\n\n\n\nThe goal of EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411B provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nAllie Caughman\nPronouns: she/her/hers\nE-mail: acaughman@bren.ucsb.edu\nOffice hours: please schedule through calendar\nBest way to contact me: Slack\n\n\n\nClick here to view the syllabus.\n\n\n\nThe following is our ideal calendar, the course content may be subject to change as the course progresses."
+    "text": "Week 1 - course overview"
   },
   {
-    "objectID": "411b_spring/411b_overview.html#welcome",
-    "href": "411b_spring/411b_overview.html#welcome",
-    "title": "Overview",
+    "objectID": "week7.html",
+    "href": "week7.html",
+    "title": "Week 7",
     "section": "",
-    "text": "Welcome to the course materials for EDS 411B - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nHere you will find the materials covered during lectures for the Spring 2024 term.\nThis site will be under construction throughout the course."
+    "text": "Class slides\nResponding to questions slides\n\n\n\n\n\n\n\n\n\n\nI might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review\n\n\n\n\n\n\n\n\n\n\n\nThis is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
   },
   {
-    "objectID": "411b_spring/411b_overview.html#about",
-    "href": "411b_spring/411b_overview.html#about",
-    "title": "Overview",
+    "objectID": "week7.html#materials",
+    "href": "week7.html#materials",
+    "title": "Week 7",
     "section": "",
-    "text": "The goal of EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411B provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution)."
+    "text": "Class slides\nResponding to questions slides"
   },
   {
-    "objectID": "411b_spring/411b_overview.html#instructor",
-    "href": "411b_spring/411b_overview.html#instructor",
-    "title": "Overview",
+    "objectID": "week7.html#to-do-by-next-week",
+    "href": "week7.html#to-do-by-next-week",
+    "title": "Week 7",
     "section": "",
-    "text": "Carmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
+    "text": "I might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review"
   },
   {
-    "objectID": "411b_spring/411b_overview.html#ta",
-    "href": "411b_spring/411b_overview.html#ta",
-    "title": "Overview",
+    "objectID": "week7.html#meds-faculty-reviews-watch-party",
+    "href": "week7.html#meds-faculty-reviews-watch-party",
+    "title": "Week 7",
     "section": "",
-    "text": "Allie Caughman\nPronouns: she/her/hers\nE-mail: acaughman@bren.ucsb.edu\nOffice hours: please schedule through calendar\nBest way to contact me: Slack"
+    "text": "This is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
   },
   {
-    "objectID": "411b_spring/411b_overview.html#syllabus",
-    "href": "411b_spring/411b_overview.html#syllabus",
-    "title": "Overview",
+    "objectID": "week2.html",
+    "href": "week2.html",
+    "title": "Week 2",
     "section": "",
-    "text": "Click here to view the syllabus."
+    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides\n\n\n\n1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nSubmit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
   },
   {
-    "objectID": "411b_spring/411b_overview.html#calendar",
-    "href": "411b_spring/411b_overview.html#calendar",
-    "title": "Overview",
+    "objectID": "week2.html#materials",
+    "href": "week2.html#materials",
+    "title": "Week 2",
     "section": "",
-    "text": "The following is our ideal calendar, the course content may be subject to change as the course progresses."
+    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides"
   },
   {
-    "objectID": "week3.html",
-    "href": "week3.html",
-    "title": "Week 3",
+    "objectID": "week2.html#schedule",
+    "href": "week2.html#schedule",
+    "title": "Week 2",
     "section": "",
-    "text": "Class slides\n\n\n\n1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nDraft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
+    "text": "1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class"
   },
   {
-    "objectID": "week3.html#materials",
-    "href": "week3.html#materials",
-    "title": "Week 3",
+    "objectID": "week2.html#to-do-by-next-week",
+    "href": "week2.html#to-do-by-next-week",
+    "title": "Week 2",
     "section": "",
-    "text": "Class slides"
+    "text": "Submit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
   },
   {
-    "objectID": "week3.html#schedule",
-    "href": "week3.html#schedule",
-    "title": "Week 3",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EDS 411: MEDS Capstone Courses",
     "section": "",
-    "text": "1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class"
+    "text": "Welcome to the course materials for MEDS Capstone Courses EDS 411A and EDS 411B! This course sequence is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the 2024 Winter and Spring terms. This site will be under construction throughout the course.\n\n\nThe goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet at Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nThis website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
   },
   {
-    "objectID": "week3.html#to-do-by-next-week",
-    "href": "week3.html#to-do-by-next-week",
-    "title": "Week 3",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "EDS 411: MEDS Capstone Courses",
     "section": "",
-    "text": "Draft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
+    "text": "The goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution)."
   },
   {
-    "objectID": "week1.html",
-    "href": "week1.html",
-    "title": "Week 1",
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "EDS 411: MEDS Capstone Courses",
     "section": "",
-    "text": "Slides\n\n\n\n1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class\n\n\n\n\n\nGoals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+    "text": "Carmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet at Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
   },
   {
-    "objectID": "week1.html#materials",
-    "href": "week1.html#materials",
-    "title": "Week 1",
+    "objectID": "index.html#about-this-website",
+    "href": "index.html#about-this-website",
+    "title": "EDS 411: MEDS Capstone Courses",
     "section": "",
-    "text": "Slides"
-  },
-  {
-    "objectID": "week1.html#schedule",
-    "href": "week1.html#schedule",
-    "title": "Week 1",
-    "section": "",
-    "text": "1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class"
-  },
-  {
-    "objectID": "week1.html#to-do-by-next-week",
-    "href": "week1.html#to-do-by-next-week",
-    "title": "Week 1",
-    "section": "",
-    "text": "Goals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
+    "text": "This website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
   },
   {
     "objectID": "411a_winter/411a_overview.html",
     "href": "411a_winter/411a_overview.html",
     "title": "Overview",
     "section": "",
-    "text": "Welcome to the course materials for EDS 411A - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the Winter 2024 term.\n\n\n\nThe goal of EDS 411A is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nClick here to view syllabus.\n\n\n\nThe following is our ideal calendar, the course content may be subject to change as the course progresses."
+    "text": "Welcome to the course materials for EDS 411A - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the Winter 2024 term.\n\n\n\nThe goal of EDS 411A is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nClick here to view syllabus.\n\n\n\nCarmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nThe following is our ideal calendar, the course content may be subject to change as the course progresses."
   },
   {
     "objectID": "411a_winter/411a_overview.html#welcome",
@@ -245,18 +196,18 @@
     "text": "The goal of EDS 411A is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution)."
   },
   {
-    "objectID": "411a_winter/411a_overview.html#instructor",
-    "href": "411a_winter/411a_overview.html#instructor",
-    "title": "Overview",
-    "section": "",
-    "text": "Carmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
-  },
-  {
     "objectID": "411a_winter/411a_overview.html#syllabus",
     "href": "411a_winter/411a_overview.html#syllabus",
     "title": "Overview",
     "section": "",
     "text": "Click here to view syllabus."
+  },
+  {
+    "objectID": "411a_winter/411a_overview.html#instructor",
+    "href": "411a_winter/411a_overview.html#instructor",
+    "title": "Overview",
+    "section": "",
+    "text": "Carmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
   },
   {
     "objectID": "411a_winter/411a_overview.html#calendar",
@@ -294,88 +245,186 @@
     "text": "Updating your DIP:\n\nadd details about your project your team has gathered while preparing for faculty reviews\ngot a cool diagram that succinctly describes your process or model? consider adding it to your DIP\n\nGetting your preliminary results or creating a prototype for review\n\n\n\n\nHave a mock presentation with your faculty advisor. Prioritize their feedback.\nMake sure you are ready to explain any technical terms you mention in your presentation.\nI might send you some extra comments and feedback\nPractice! That is half the battle.\nIf you would like to iterate once more with me, you’re welcome to schedule a 30 minute block on my calendar on Friday (Manzanita room) or Monday morning (Sequoia room).\n\n\n\n\nEmily will send an email with important reminders next Monday. Meanwhile, review the following documents:\n\nFaculty Review logistics presentation\nRubric\nPresentations schedule\n\n🌟 You got this! 🌟"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EDS 411: MEDS Capstone Courses",
+    "objectID": "411a_winter/411a_resources.html",
+    "href": "411a_winter/411a_resources.html",
+    "title": "411A Resources",
     "section": "",
-    "text": "Welcome to the course materials for MEDS Capstone Courses EDS 411A and EDS 411B! This course sequence is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the 2024 Winter and Spring terms. This site will be under construction throughout the course.\n\n\nThe goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet at Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nThis website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
+    "text": "📑 Capstone Project Guidelines MEDS 2024. Available for download at Bren’s Academic Resources website.\n🛟 Capstone help “order of operations” (only available to EDS 411 students).\n\n\n\n🆗 Good enough practices to manage your project.\n📨 Contact RDS at: rds@library.ucsb.edu\n\n\n\n✅ Faculty Review Logistics - Emily Case\n🗓️ Faculty Review Schedule\n💯 Faculty Review Rubric\n\n\n\n💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD\n\n\n\n📓 Sample DIPs (only available to EDS 411 students).\n🗺️ Roadmap to First Draft of Design and Implementation Plan\n\n\n\n\n\n\n\n\nDIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle page\n-\nWeek 5 - Feb 9\n\n\nExecutive summary\nWeek 5 - Feb 7\nWeek 5 - Feb 9\n\n\nProblem statement and objectives\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nSolution Design: Approach and Methods\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nSolution Design: Data Management Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 6\n\n\nSolution Design: Proposed Software and Tools\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nProducts and Deliverables\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nDocumentation Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 7\n\n\nTesting Plan\nWeek 5 - Feb 7\nWeek 5 - Feb 9 1\n\n\nTimelines and Milestones\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nTeam Management Plan\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 9 2\n\n\nReferences\n-\nWeek 5 - Feb 9\n\n\n\n\nRevisit timeline, milestones, and software & tools to include testing\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "EDS 411: MEDS Capstone Courses",
+    "objectID": "411a_winter/411a_resources.html#capstone-process-documents",
+    "href": "411a_winter/411a_resources.html#capstone-process-documents",
+    "title": "411A Resources",
     "section": "",
-    "text": "The goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution)."
+    "text": "📑 Capstone Project Guidelines MEDS 2024. Available for download at Bren’s Academic Resources website.\n🛟 Capstone help “order of operations” (only available to EDS 411 students)."
   },
   {
-    "objectID": "index.html#instructor",
-    "href": "index.html#instructor",
-    "title": "EDS 411: MEDS Capstone Courses",
+    "objectID": "411a_winter/411a_resources.html#ucsb-library-research-data-services",
+    "href": "411a_winter/411a_resources.html#ucsb-library-research-data-services",
+    "title": "411A Resources",
     "section": "",
-    "text": "Carmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet at Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
+    "text": "🆗 Good enough practices to manage your project.\n📨 Contact RDS at: rds@library.ucsb.edu"
   },
   {
-    "objectID": "index.html#about-this-website",
-    "href": "index.html#about-this-website",
-    "title": "EDS 411: MEDS Capstone Courses",
+    "objectID": "411a_winter/411a_resources.html#faculty-review-resources",
+    "href": "411a_winter/411a_resources.html#faculty-review-resources",
+    "title": "411A Resources",
     "section": "",
-    "text": "This website is created with Quarto and is published through GitHub pages. Click here to go to the website’s GitHub repository."
+    "text": "✅ Faculty Review Logistics - Emily Case\n🗓️ Faculty Review Schedule\n💯 Faculty Review Rubric"
   },
   {
-    "objectID": "week2.html",
-    "href": "week2.html",
-    "title": "Week 2",
+    "objectID": "411a_winter/411a_resources.html#public-speaking-resources",
+    "href": "411a_winter/411a_resources.html#public-speaking-resources",
+    "title": "411A Resources",
     "section": "",
-    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides\n\n\n\n1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nSubmit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
+    "text": "💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD"
   },
   {
-    "objectID": "week2.html#materials",
-    "href": "week2.html#materials",
-    "title": "Week 2",
+    "objectID": "411a_winter/411a_resources.html#design-and-implementation-plan-resources",
+    "href": "411a_winter/411a_resources.html#design-and-implementation-plan-resources",
+    "title": "411A Resources",
     "section": "",
-    "text": "📕 Class slides\n📗 Computing resources slides\n📘 Conflict resolution workshop slides"
+    "text": "📓 Sample DIPs (only available to EDS 411 students).\n🗺️ Roadmap to First Draft of Design and Implementation Plan\n\n\n\n\n\n\n\n\nDIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle page\n-\nWeek 5 - Feb 9\n\n\nExecutive summary\nWeek 5 - Feb 7\nWeek 5 - Feb 9\n\n\nProblem statement and objectives\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nSolution Design: Approach and Methods\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nSolution Design: Data Management Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 6\n\n\nSolution Design: Proposed Software and Tools\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nProducts and Deliverables\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nDocumentation Plan\nWeek 4 - Jan 31\nWeek 5 - Feb 7\n\n\nTesting Plan\nWeek 5 - Feb 7\nWeek 5 - Feb 9 1\n\n\nTimelines and Milestones\nWeek 3 - Jan 24\nWeek 4 - Jan 30\n\n\nTeam Management Plan\nWeek 2 - Jan 17\nWeek 3 - Jan 23\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 9 2\n\n\nReferences\n-\nWeek 5 - Feb 9\n\n\n\n\nRevisit timeline, milestones, and software & tools to include testing\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
   },
   {
-    "objectID": "week2.html#schedule",
-    "href": "week2.html#schedule",
-    "title": "Week 2",
+    "objectID": "week1.html",
+    "href": "week1.html",
+    "title": "Week 1",
     "section": "",
-    "text": "1:00 - 1:10 : Questions and check-in\n1:10 - 1:45 : Flash presentations\n1:45 - 2:00 : Computing resources presentation - Kat Le, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:20: Conflict resolution workshop - Amelia Liberatore, NCEAS\n3:20 - 3:25: BREAK\n3:25 - 3:55: Co-working on project statement and objectives\n3:55 - 4:00: Checklist for next class"
+    "text": "Slides\n\n\n\n1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class\n\n\n\n\n\nGoals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
   },
   {
-    "objectID": "week2.html#to-do-by-next-week",
-    "href": "week2.html#to-do-by-next-week",
-    "title": "Week 2",
+    "objectID": "week1.html#materials",
+    "href": "week1.html#materials",
+    "title": "Week 1",
     "section": "",
-    "text": "Submit by 5pm on Friday 1/19:\nFinalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it. \nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Team Management Plan section. Add document to the shared folder Week 2 - Team Management Plan draft.\nConsider the following resources when writing the Team Management Plan:\n\nMEDS Capstone Project Guidelines\nTeam’s project roles and responsibilities\nTen simple rules to cultivate belonging in collaborative data science research teams\nFlexible communication roles among team members\nConflict resolution strategies\nDr. Allison Horst’s Code of Conduct\n\nSubmit by 5pm on Tuesday 1/23:\nDraft of DIP Problem Statement and Objectives Section and DIP Products & Deliverables Add document to the shared folder Week 2 - Problem & Objectives / Deliverables\nRemember:\n\nyour team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections\nas needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9."
+    "text": "Slides"
   },
   {
-    "objectID": "week7.html",
-    "href": "week7.html",
-    "title": "Week 7",
+    "objectID": "week1.html#schedule",
+    "href": "week1.html#schedule",
+    "title": "Week 1",
     "section": "",
-    "text": "Class slides\nResponding to questions slides\n\n\n\n\n\n\n\n\n\n\nI might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review\n\n\n\n\n\n\n\n\n\n\n\nThis is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
+    "text": "1:00 - 1:30 : Overview of EDS 411, Capstone Project, and DIP\n1:30 - 2:00: Client relations workshop - Miya Scheble, Bren School\n2:00 - 2:05: BREAK\n2:05 - 3:00: Communication roles activity\n3:00 - 3:10: BREAK\n3:10 - 3:50: Capstone project group roles, alias, and summary\n3:50 - 4:00: Checklist for next class"
   },
   {
-    "objectID": "week7.html#materials",
-    "href": "week7.html#materials",
-    "title": "Week 7",
+    "objectID": "week1.html#to-do-by-next-week",
+    "href": "week1.html#to-do-by-next-week",
+    "title": "Week 1",
     "section": "",
-    "text": "Class slides\nResponding to questions slides"
+    "text": "Goals for first client meeting (to be held before next class):\n☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)\n☑️ Address any issue with accessing data (determine beforehand what these might be)\n☑️ Find out who the audience for your product will be and if there will be people who can test it\nBefore meeting the client meeting, develop an agenda, including:\n\nwho will be the meeting facilitator/chair and who will take notes\nagenda (with times)\nlist of clarifying questions you want to ask the client\nany questions about the data - make sure you know how to access it\n\nAfter meeting: reflect with your team on how it went and what could be improved.\n\n\n\n\nRead:\n☑️ MEDS Capstone Project Guidelines, available at Bren’s Academic Resources webste\n☑️ Sample DIPs\n☑️ Ten simple rules to cultivate belonging in collaborative data science research teams\nPrepare with your capstone team 3 slides covering:\n\nAn ultra summarized version of what your capstone project will do\nThe datasets you’ll use\n One graph showing exploratory visualization of your data\n\nPick a person or two who are ready to do a 3 minute presentation next. class\n\n\n\n\nSubmit by 5pm on Tuesday 1/16: Project roles. Update them on the EDS 2024 Capstone Assignments\nSubmit by 5pm on Friday 1/19: Finalize your summary paragraph for Bren website, add to Capstone Summaries.  Your advisor must review your summary before submitting it."
   },
   {
-    "objectID": "week7.html#to-do-by-next-week",
-    "href": "week7.html#to-do-by-next-week",
-    "title": "Week 7",
+    "objectID": "week3.html",
+    "href": "week3.html",
+    "title": "Week 3",
     "section": "",
-    "text": "I might send you some extra comments and feedback after class\nIncorporate the feedback and streamline your presentation\nIterate with your faculty advisor\nPractice makes perfect. :-)\n\n\n\n\n\nGo over this presentation about best practices to answer questions about your presentation.\nIdentify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.\nBrainstorm who would be most appropriate to respond to questions in each bin.\nWrite down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review Prepare, if necessary, any extra slides you might need during your Q&A\n\n\n\n\n\nUpdating your DIP: all DIPs need more details about their main deliverable\nGetting your preliminary results or creating a prototype for review"
+    "text": "Class slides\n\n\n\n1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class\n\n\n\n\n\nDraft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
   },
   {
-    "objectID": "week7.html#meds-faculty-reviews-watch-party",
-    "href": "week7.html#meds-faculty-reviews-watch-party",
-    "title": "Week 7",
+    "objectID": "week3.html#materials",
+    "href": "week3.html#materials",
+    "title": "Week 3",
     "section": "",
-    "text": "This is an optional event to prepare for your MEDS Faculty Reviews.\n\n\n\nWhat: watching two recordings of previous MEDS faculty reviews\nWhen: Thursday, February 22, 3:15 - 4:15\nWhere: At Bren, room 1414\nWho: everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations."
+    "text": "Class slides"
+  },
+  {
+    "objectID": "week3.html#schedule",
+    "href": "week3.html#schedule",
+    "title": "Week 3",
+    "section": "",
+    "text": "1:00 - 1:15 : Questions & check-in\n1:15 - 1:55: GitHub organization & projects\n2:55 - 2:00: BREAK\n2:00 - 2:50: git merge conflicts\n2:50 - 3:00: BREAK\n3:00 - 3:40: DIP Solution Design\n3:40 - 3:54: DIP Timelines & Milestones\n3:50 - 3:55: ABT elevator pitch\n3:55 - 4:00: Checklist for next class"
+  },
+  {
+    "objectID": "week3.html#to-do-by-next-week",
+    "href": "week3.html#to-do-by-next-week",
+    "title": "Week 3",
+    "section": "",
+    "text": "Draft of DIP Approach & Methods section and DIP Proposed Software & Tools section\nInclude your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add document to the shared folder Week 3 - Approach & Methods / Proposed Software or Tools.\nThere might be details, questions, or even gaps about how you’ll create your deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options.\nDraft of DIP Timeline & Milestones\nInclude a Gantt Chart to visualize represent your project’s timeline. Some Gantt chart resources from Casey O’Hara. You can also make a nice looking one in Google sheets.\nTimeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion\nAdd document to the shared folder Week 3 - Timeline & Milestones.\n\n\n\n\nPrepare 4 slides covering:\n\nSlide 1: A cover slide\n\nSlide 2: Your ABT elevator pitch telling us what your project is about (&lt;&lt; 1 min)\nSlide 3: Brief overview of project’s products and deliverables\nSlide 4: Approach and methods draft diagram\n\nPick a person or two who are ready to do a 3 minute presentation next class Add slides to Week 4 - Flash talks before class.\nFocus on:\n\nAvoiding big blocks of text.\nSeamless transitions between sections, clear, and precise speech.\nPractice and time it!\nListen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!\nWhen describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say?\n\n\n\n\n\nUpdate:\n\nYour GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week’s demo sessions.\nIf your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks (highly encouraged), update your team management plan sections V and VI to include these. Then create some issues, milestones, and a project to track the bigger steps of your Approach & Methods section.\n\n\n\n\n\nRead the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page). Next week we’ll have a presentation by the Research Data Services from UCSB’s Library. Come prepared with questions about data management and archival for your project."
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html",
+    "href": "411b_spring/411b_overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Welcome to the course materials for EDS 411B - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nHere you will find the materials covered during lectures for the Spring 2024 term.\nThis site will be under construction throughout the course.\n\n\n\nThe goal of EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411B provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nClick here to view the syllabus.\n\n\n\nCarmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack\n\n\n\nAllie Caughman\nPronouns: she/her/hers\nE-mail: acaughman@bren.ucsb.edu\nOffice hours: please schedule through calendar\nBest way to contact me: Slack\n\n\n\nThe following is our ideal calendar, the course content may be subject to change as the course progresses."
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html#welcome",
+    "href": "411b_spring/411b_overview.html#welcome",
+    "title": "Overview",
+    "section": "",
+    "text": "Welcome to the course materials for EDS 411B - MEDS Capstone! This course is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nHere you will find the materials covered during lectures for the Spring 2024 term.\nThis site will be under construction throughout the course."
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html#about",
+    "href": "411b_spring/411b_overview.html#about",
+    "title": "Overview",
+    "section": "",
+    "text": "The goal of EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411B provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution)."
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html#syllabus",
+    "href": "411b_spring/411b_overview.html#syllabus",
+    "title": "Overview",
+    "section": "",
+    "text": "Click here to view the syllabus."
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html#instructor",
+    "href": "411b_spring/411b_overview.html#instructor",
+    "title": "Overview",
+    "section": "",
+    "text": "Carmen Galaz García\nPronouns: she/her/hers\nE-mail: c_galazgarcia@ucsb.edu\nOffice hour: by appointmnet, Zoom or NCEAS classroom\nBest way to contact me: e-mail, Slack"
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html#ta",
+    "href": "411b_spring/411b_overview.html#ta",
+    "title": "Overview",
+    "section": "",
+    "text": "Allie Caughman\nPronouns: she/her/hers\nE-mail: acaughman@bren.ucsb.edu\nOffice hours: please schedule through calendar\nBest way to contact me: Slack"
+  },
+  {
+    "objectID": "411b_spring/411b_overview.html#calendar",
+    "href": "411b_spring/411b_overview.html#calendar",
+    "title": "Overview",
+    "section": "",
+    "text": "The following is our ideal calendar, the course content may be subject to change as the course progresses."
+  },
+  {
+    "objectID": "411b_spring/411b_resources.html",
+    "href": "411b_spring/411b_resources.html",
+    "title": "411B Resources",
+    "section": "",
+    "text": "📑 Capstone Project Guidelines MEDS 2024. Available for download at Bren’s Academic Resources website.\n🛟 Capstone help “order of operations” (only available to EDS 411 students).\n\n\n\n🆗 Good enough practices to manage your project.\n📨 Contact RDS at: rds@library.ucsb.edu\n\n\n\n\n💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD\n\n\n\n📓 Selected sample TDs (only available to EDS 411 students).\n🗃 The Technical Documentations for all MEDS Capstone projects are publicly accessible through the capstone projects index at Bren’s website."
+  },
+  {
+    "objectID": "411b_spring/411b_resources.html#capstone-process-documents",
+    "href": "411b_spring/411b_resources.html#capstone-process-documents",
+    "title": "411B Resources",
+    "section": "",
+    "text": "📑 Capstone Project Guidelines MEDS 2024. Available for download at Bren’s Academic Resources website.\n🛟 Capstone help “order of operations” (only available to EDS 411 students)."
+  },
+  {
+    "objectID": "411b_spring/411b_resources.html#ucsb-library-research-data-services",
+    "href": "411b_spring/411b_resources.html#ucsb-library-research-data-services",
+    "title": "411B Resources",
+    "section": "",
+    "text": "🆗 Good enough practices to manage your project.\n📨 Contact RDS at: rds@library.ucsb.edu"
+  },
+  {
+    "objectID": "411b_spring/411b_resources.html#public-speaking-resources",
+    "href": "411b_spring/411b_resources.html#public-speaking-resources",
+    "title": "411B Resources",
+    "section": "",
+    "text": "💬 Responding to questions slides\n🌟 Ten Ways to Improve Presentations - Alex Phillips, PhD"
+  },
+  {
+    "objectID": "411b_spring/411b_resources.html#technical-documentation-resources",
+    "href": "411b_spring/411b_resources.html#technical-documentation-resources",
+    "title": "411B Resources",
+    "section": "",
+    "text": "📓 Selected sample TDs (only available to EDS 411 students).\n🗃 The Technical Documentations for all MEDS Capstone projects are publicly accessible through the capstone projects index at Bren’s website."
   },
   {
     "objectID": "week4.html",
