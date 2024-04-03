@@ -1,1 +1,58 @@
 # Week 1 - course overview
+
+## Materials
+
+[Slides](https://docs.google.com/presentation/d/1ENb8_WeRfEyM0GgRUnTZ2BwbxmugBX2waW51RGulGEQ/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 2:00 : Overview of EDS 411B, Spring Quarter deliverables, Technical Documentation, Checklist for next class
+
+1:45 - 3:40: Dedicated work time & meetings with teams
+
+3:40 - 4:00: Closing round
+
+## To do by next week
+
+### Submit Project Sections Outline
+
+**Submit by 1pm on Wednesday 4/10.**
+
+Create a single Google doc with the following information:
+
+1. A detailed outline of the sections in your Technical Documentation.
+    - Specify who is the audience for each section (or group of sections).
+    - Explain what kind of user documentation you will create. Have a clear description of who the “user” for the document will be. Discuss this with your advisor.
+
+2. A timeline to completion for your Technical Documentation taking into account the capstone deadlines. It doesn’t have to be anything fancy, a list of dates and deliverables is ok.
+    Tips:
+    - If you liked how we split up the DIP by sections per week, try implementing something similar.
+    - Write your executive summary and abstract last, your project might evolve along the quarter.
+
+Add your document to our [shared folder TD Outlines and Timeline](https://drive.google.com/drive/folders/1FA2SYNlUG7rVsJDFpMwLFmJWg5Gs1rZc?usp=share_link). 
+
+
+### Prepare a flash talk
+
+Prepare 4 slides covering:
+
+- Slide 1: A cover slide introducing your team
+- Slide 2: Your [ABT elevator pitch](https://docs.google.com/presentation/d/1VmXfUZHoa8sfUcDN40tcC2i3cVfDJ8uAyH19QD-5WbM/edit?usp=sharing) telling us what your project is about (~ 40 s)
+	      *Write down your elevator pitch on the slide.*
+- Slide 3: *Brief* overview of project’s products and deliverables
+- Slide 4: *Brief* overview of your user documentation section: what it will be about and     who is the target audience.
+
+Pick a person or two who are ready to do a ~3 minute presentation next class
+
+Add slides to shared folder [Week 2 - Flash talks](https://drive.google.com/drive/folders/1F1KSePwhjGvSmBYh2GpNoccPvzG8RArt?usp=share_link).
+
+- This is an informal presentation to get us back up to speed. 
+- Make sure your elevator pitch reflects the current objectives of your project, update it if needed.
+- Make sure your elevator pitch is crisp, short, and follows the ABT structure.
+- You should reuse, if possible, slides you made last quarter. 
+
+### Revise your project timeline
+
+- Revise the timeline you submitted in your DIP: are you on time to complete it? 
+- Revise and discuss your updated timeline with your advisor. 
+- Update your client on any significant changes.
