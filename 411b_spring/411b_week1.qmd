@@ -20,11 +20,11 @@
 
 Create a single Google doc with the following information:
 
-1. A detailed outline of the sections in your Technical Documentation.
-    - Specify who is the audience for each section (or group of sections).
-    - Explain what kind of user documentation you will create. Have a clear description of who the “user” for the document will be. Discuss this with your advisor.
+1. A **detailed list of the sections** (table of contents) your team will have in their Technical Documentation.
+    - Specify who is the audience for each section or group of sections.
+    - Explain what kind of user documentation you will create. Have a clear description of who the “user” for the document will be. *Discuss this with your advisor.*
 
-2. A timeline to completion for your Technical Documentation taking into account the capstone deadlines. It doesn’t have to be anything fancy, a list of dates and deliverables is ok.
+2. A **timeline to completion** for your Technical Documentation taking into account the capstone deadlines. Consider making a Gantt chart, but also a list of dates and deliverables is ok.
     Tips:
     - If you liked how we split up the DIP by sections per week, try implementing something similar.
     - Write your executive summary and abstract last, your project might evolve along the quarter.
@@ -46,10 +46,10 @@ Pick a person or two who are ready to do a ~3 minute presentation next class
 
 Add slides to shared folder [Week 2 - Flash talks](https://drive.google.com/drive/folders/1F1KSePwhjGvSmBYh2GpNoccPvzG8RArt?usp=share_link).
 
-- This is an informal presentation to get us back up to speed. 
+- This is an informal presentation to get us back up to speed and introduce your projects to our TA. 
 - Make sure your elevator pitch reflects the current objectives of your project, update it if needed.
 - Make sure your elevator pitch is crisp, short, and follows the ABT structure.
-- You should reuse, if possible, slides you made last quarter. 
+- You should reuse, if possible, any slides you made last quarter. 
 
 ### Revise your project timeline
 
