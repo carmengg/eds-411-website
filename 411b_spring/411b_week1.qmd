@@ -1,4 +1,4 @@
-# Week 1 - course overview
+# Week 1
 
 ## Materials
 
@@ -6,15 +6,19 @@
 
 ## Schedule
 
-1:00 - 2:00 : Overview of EDS 411B, Spring Quarter deliverables, Technical Documentation, Checklist for next class
+1:00 - 2:15 : Overview of EDS 411B, Spring Quarter deliverables, Technical Documentation, Checklist for next class
 
-1:45 - 3:40: Dedicated work time & meetings with teams
+2:15 - 3:45: Dedicated work time & meetings with teams
 
-3:40 - 4:00: Closing round
+3:45 - 4:00: Closing round
+
+## Upcoming deadlines
+
+![](/images/411b_spring/upcpming_deadlines_1.png)
 
 ## To do by next week
 
-### Submit Project Sections Outline
+### Submit Technical Documentation Sections Outline
 
 **Submit by 1pm on Wednesday 4/10.**
 
@@ -40,7 +44,7 @@ Prepare 4 slides covering:
 - Slide 2: Your [ABT elevator pitch](https://docs.google.com/presentation/d/1VmXfUZHoa8sfUcDN40tcC2i3cVfDJ8uAyH19QD-5WbM/edit?usp=sharing) telling us what your project is about (~ 40 s)
 	      *Write down your elevator pitch on the slide.*
 - Slide 3: *Brief* overview of project’s products and deliverables
-- Slide 4: *Brief* overview of your user documentation section: what it will be about and     who is the target audience.
+- Slide 4: *Brief* overview of your user documentation section: what it will be about and who is the target audience.
 
 Pick a person or two who are ready to do a ~3 minute presentation next class
 

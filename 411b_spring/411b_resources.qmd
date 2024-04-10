@@ -10,6 +10,8 @@
 
 🤔 [Fill out this form with information about your questions](https://forms.gle/pqBX3BCVj5RVpCeZ8)
 
+📚 Allie won’t be staying regularly during class. If you want to meet with her during class, you need to email her beforehand, at the latest on Tuesday, by 5 pm. 
+
 
 ## Capstone Process Documents
 
@@ -39,8 +41,8 @@
 
 ## Technical Documentation Resources
 
-[📓 Selected sample TDs](https://drive.google.com/drive/folders/1idEe6rJO-x_HjyywJP9PcM6sFkWeg3iF?usp=share_link) (only available to EDS 411 students). 
-
 🗃 The Technical Documentations for all MEDS Capstone projects are publicly accessible through the [capstone projects index at Bren’s website](https://bren.ucsb.edu/projects?f%5B0%5D=project-program%3A63).
+
+[📓 Selected sample TDs](https://drive.google.com/drive/folders/1idEe6rJO-x_HjyywJP9PcM6sFkWeg3iF?usp=share_link) (only available to EDS 411 students). 
 
 
