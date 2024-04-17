@@ -26,7 +26,7 @@
 
 ### Expand Technical Documentation Outline
 
-**Submit by 1pm on Wednesday 4/10.**
+**Submit by 1pm on Wednesday 4/10**
 
 Submit an expanded version of your TD outline by 1 pm on Wednesday 4/17.
 Add your document to our [shared folder Week 3 - TD Outline submission](https://drive.google.com/drive/folders/1Z6TLkg-sKhZY4OsgOwCetiy-iUw16UPh?usp=share_link). 
@@ -49,6 +49,7 @@ For each section:
 2. note the extent to which the section is completed and any remaining obstacles to its completion. 
 
 As an appendix to the outline:
+
 1. describe the work to be completed during the remainder of Spring Quarter 
 2. include a timeline for remaining tasks and deliverables.
 
