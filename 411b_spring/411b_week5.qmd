@@ -1,0 +1,48 @@
+# Week 5
+
+## Materials
+
+- [Class Slides](https://docs.google.com/presentation/d/1m7N8WfP4FNfWJnSH_OxTg2xIKCKSSpzkVEd9fdii-fk/edit?usp=sharing)
+
+- Materials for Sam Csik's unit testing workshop can be found in her [Intro to Shiny Workshop materials](https://ucsb-meds.github.io/EDS-430-Intro-to-Shiny/). 
+Or [click here](https://ucsb-meds.github.io/EDS-430-Intro-to-Shiny/course-materials/part7-debugging-testing.html) to access them directly here.
+
+## Schedule
+
+1:00 - 1:05: Questions & check-in, upcoming assignments
+
+1:05 ~ 2:35: Shiny app testing workshop with Sam Csik
+
+2:35 - 3:45: Dedicated work time & meetings with teams
+
+3:45 - 4:00: Closing round
+
+
+## Recent & upcoming deadlines
+
+![](/images/411b_spring/upcoming_deadlines_3.png)
+
+## To do by next week
+
+### Update your Techincal Documentation
+
+Work on updating your Technical Documentatio based on your advisor's feedback:
+
+- discuss feedback with your team
+- start working on updating your draft
+- contact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
+
+
+
+### Give your project a **big push**
+
+In about 10 days we will start preparing for final presentations. **This is a good time to make a big push towards finishing your final deliverables!!**
+
+<!--
+<center>
+<iframe src="https://giphy.com/embed/Ym7JUEUTAyFSTJLc4K" width="350" height="350" frameBorder="0"  allowFullScreen></iframe></center>
+-->
+
+<center>
+![](/images/411b_spring/giphy-2.gif){width=35%}
+</center>
