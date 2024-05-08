@@ -1,0 +1,68 @@
+# Week 6
+
+## Materials
+
+- [Class Slides](https://docs.google.com/presentation/d/1We9kp18VcB7RcwmejF9JslT8xMFIlZ31SBJzgkkbSGM/edit?usp=sharing)
+
+- [Faculty Review Logistics Slides](https://docs.google.com/presentation/d/1T34lQ5EGxkyW8EJAjUFqdcFaoXmvMFmJpHumSRBWq7c/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:05: Upcoming assignments
+
+1:05 - 1:35: Faculty Review Logistics - Emily Case & Allie Caughman
+
+1:35 - 2:00: 2023 MEDS capstone final presentation screening
+
+2:00 - 3:45: Dedicated work time & meetings with teams
+
+3:45 - 4:00: Closing round
+
+
+## Recent & upcoming deadlines
+
+![](/images/411b_spring/upcoming_deadlines_4.png)
+
+## To do by next week
+
+### 1. Submit complete draft of TD and project repository
+
+- Incorporate the feedback you’ve received so far.
+- Send an email to your advisor and me with a link to you google doc and **a link to your project’s GitHub organization/ project repo.**
+- Use this [checklist](https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing)  to guide you through cleaning your repo.
+- Be professional, thank them in advance for their feedback.
+- Make the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.
+
+### 2. Prepare abstract and acknowledgements
+
+**Abstract: Prepare and send for revision to your advisor**
+
+- The abstract is a one-paragraph brief summary of the group project, meant for a non-technical audience. The length of the abstract should not exceed 200 words. It can be the same as the one in your technical documentation. 
+- If your project title has changed, please include the new title in the abstract. 
+- Your advisor must approve the final abstract and any title updates before submission.
+
+**Acknowledgments: Prepare and ask for consent from everyone listed**
+
+- The acknowledgements should include advisors, professionals, organizations, funding sources, etc. that assisted the Capstone Project. 
+- Each acknowledgment should include the person’s name, title (if known), and affiliation/organization. 
+- You should obtain authorization from each person or party being acknowledged that their names can be included in the abstract. 
+- Emily will send you more details about the format for the acknowledgements this week, but you should start collecting the names.
+
+**The abstract and acknowledgements are due on Friday, May 17 (next week).**
+
+### 3. Prepare final presentation mock presentation
+
+1. Decide who will be presenting in the final public presentation. 
+Remember every person in the team should be ready to present if needed.
+2. Review the [guidelines for your presentation](https://docs.google.com/presentation/d/1T34lQ5EGxkyW8EJAjUFqdcFaoXmvMFmJpHumSRBWq7c/edit?usp=sharing) covered today
+3. **Prepare a formal mock presentation (14 minutes long) for next Wednesday**
+- Strongly suggest following [Alex’s presentation, point 6](https://docs.google.com/presentation/d/1z9URIEa5Ex7FtDcTMTPbQrWO7mD8XHhdzlKLZzXhfEQ/edit?usp=sharing) to prepare your slides. 
+- The [presentation design considerations from last quarter](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing) still apply.
+- It’s ok if you add stand-in figures for prototypes and results for now.
+- Focus on the story line: this is a public presentation for a general audience. 
+4. Discuss your draft slides with your faculty advisor. 
+5. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1r6m7zGLLth8-acQr_5BUK9XeWK6lyUHX?usp=share_link) and be ready to do present next week! 
+
+## Schedule for next Class
+
+![](/images/presentations1.png)
