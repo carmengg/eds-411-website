@@ -1,0 +1,55 @@
+# Week 8
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/1zaEkOn-qsyEw9WXjHULXRVkdo3Emn1uv7UJFSKdhQuw/edit?usp=sharing)
+
+[Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+## Schedule
+
+![](/images/411b_spring/mocks2.png)
+
+## Upcoming deadlines
+
+![](/images/411b_spring/upcoming_deadlines_6.png)
+
+::: {.callout-tip}
+## How do I submit X? What is the format for Y? Who needs to receive Z?
+For further details, please refer to Emily Case's thorough and detailed email "IMPORTANT: Capstone Project Deadlines & Reminders" about how to submit your capstone requirements and the required format for these. 
+:::
+
+## To do by next week
+
+### 1. Keep working on you capstone deliverables!
+
+### 2. Update Technical Documentation and clean repositories
+
+### 3. Submit editable file of closed captioning script
+
+### 4. Prepare data archival
+Refer to class slides for details.
+
+### 4. Prepare final presentation
+
+- Incorporate the feedback you received today and streamline your presentation
+- *Practice at least once with your faculty advisor*
+- Prepare for Q&A (check class slides)
+- Iterate with your faculty advisor
+- Schedule practice presentations or feedback sessions with Allie or me
+- You got this!
+
+
+## Schedule for next class
+![](/images/411b_spring/mocks3.png)
+
+::: {.callout-caution}
+# What to do while you wait for your presentation block? 
+
+Teams that are not in their presenting + giving feedback block should use the time to work on their project. 
+
+We reserved these rooms for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+
+![](/images/411b_spring/rooms_week9.png)
+:::
