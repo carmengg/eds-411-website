@@ -1,0 +1,24 @@
+# Week 9
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/1gVvGyWU2C7zXyQarl99bwLk9v4JLCAXugoguXhJppQE/edit?usp=sharing)
+
+[Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+## Schedule
+
+![](/images/411b_spring/mocks3.png)
+
+## Upcoming deadlines
+
+![](/images/411b_spring/upcoming_deadlines_7.png)
+
+::: {.callout-tip}
+## How do I submit X? What is the format for Y? Who needs to receive Z?
+For further details, please refer to Emily Case's thorough and detailed email "IMPORTANT: Capstone Project Deadlines & Reminders" about how to submit your capstone requirements and the required format for these. 
+:::
+
+## To do by next week
+
+### Update and submit final Technical Documentation and GitHub repository
