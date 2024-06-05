@@ -1,0 +1,53 @@
+# Week 7
+
+## Materials
+
+[Class slides](https://docs.google.com/presentation/d/16E6q8BU-KUZpMvDZxf7EVfnt6aPxpHEcOKsSa15WucE/edit?usp=sharing)
+
+[Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+## Schedule
+
+![](images/mocks1.png)
+
+## To do by next week
+
+### Prepare mock presentation 2.0
+
+- I might send you some extra comments and feedback after class
+- Incorporate the feedback and streamline your presentation
+- Iterate with your faculty advisor
+- Practice makes perfect. :-)
+
+### Prepare for Q&A
+
+- Go over this [presentation about best practices to answer questions](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing) about your presentation.
+- Identify 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
+- Brainstorm who would be most appropriate to respond to questions in each bin.
+- Write down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review
+Prepare, if necessary, any extra slides you might need during your Q&A 
+
+### Keep working on...
+
+- Updating your DIP: **all DIPs need more details about their main deliverable**
+- Getting your preliminary results or creating a prototype for review
+
+## MEDS faculty reviews watch party
+
+::: {.callout-tip}
+# This is an *optional* event to prepare for your MEDS Faculty Reviews.
+
+**What:** watching two recordings of previous MEDS faculty reviews
+
+**When:** Thursday, February 22, 3:15 - 4:15
+
+**Where:** At Bren, room 1414
+
+**Who:** everyone in MEDS can come and will benefit from it! This is an optional event and it will be especially beneficial if you couldn’t make it to MESM presentations.
+:::
+
+## Schedule for next class
+![](images/presentations2.png)
+
+## Upcoming Capstone Deadlines
+![](images/winter_deadlines_5.png)

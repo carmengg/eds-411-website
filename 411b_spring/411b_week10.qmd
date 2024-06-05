@@ -1,0 +1,64 @@
+# Week 10
+
+## Materials
+
+[Class slides - only accessible to the MEDS Capstone Course](https://docs.google.com/presentation/d/1cQA7UVKF3qqMX6zsh-77JG41R7L-6DZVMQuWTrzVYkg/edit?usp=sharing)
+
+[UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+
+[Internal Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSc5ytdKeI0vduJyZMYPBHBsxSi1-ct6su6KyQ22U0jf9688hA/viewform?usp=pp_url)
+
+## Schedule
+
+1:00 - 1:15 : Final Presentations Check-in
+
+1:15 - 1:30 : Remaining deadlines
+
+1:30 - 2:00 : GitHub releases
+
+2:00 - 2:30 : Secure Copy Protocol (SCP) demo -  Kat Le, Bren School
+
+2:30 - 2:45 : BREAK - optional ESCIs and Course surveys
+
+2:45 - 3:30 : Capstone Wrap-up: individual and team reflection
+
+
+## Upcoming deadlines
+
+![](/images/411b_spring/upcoming_deadlines_7.png)
+
+::: {.callout-tip}
+## How do I submit X? What is the format for Y? Who needs to receive Z?
+For further details, please refer to Emily Case's thorough and detailed email "IMPORTANT: Capstone Project Deadlines & Reminders" about how to submit your capstone requirements and the required format for these. 
+:::
+
+## To do by Friday, June 7
+
+### Complete Course Surveys
+
+Thank you completing these! Your feedback really helps to improve the capstone courses!
+
+1. [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+
+2. [Internal Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSc5ytdKeI0vduJyZMYPBHBsxSi1-ct6su6KyQ22U0jf9688hA/viewform?usp=pp_url)
+
+
+### Submit final Technical Documentation and GitHub repository
+
+- Your faculty advisor must have approved it before submitting it.
+- Collect signature from your advisor (first), then me. DocuSign might be the easiest way to do this.
+- You will need to upload two *separate* files for your TD:
+    1. The final version of your TD with a blank signature page in PDF format with your Capstone Project short name 
+    2. The signature page in PDF format.
+- Don't forget: Send your final Technical Documentation and a link to your GitHub repository  to your client too. 
+
+### Complete Faculty Advisor Evaluation
+
+### Complete Peer/Self Evaluation
+- Each student must complete a Capstone Project Peer & Self Evaluation Form for Winter Quarter. 
+- Upload your evaluation form to Box and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Emily Case).
+- You must also email your peer evaluation directly to your faculty advisor. 
+
+## Congratulations on Finishing Your Capstone Projects!
+
+![](/images/411b_spring/commencement.png)
